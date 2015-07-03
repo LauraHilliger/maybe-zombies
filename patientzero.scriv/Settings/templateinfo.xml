@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<TemplateSettings Version="1.0">
+    <Title>Novel</Title>
+    <Description>Provides front matter and compile settings for creating a manuscript using standard submission format, for creating a self-published paperback novel, or for exporting as an e-book. Character and location sketch sheets are also included.</Description>
+    <Category>Fiction</Category>
+    <ImageName>TemplateNovel</ImageName>
+</TemplateSettings>
