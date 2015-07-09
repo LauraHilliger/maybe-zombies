@@ -38,7 +38,7 @@ The memory sends a cold shiver up my spine, mainly because I had slept with that
 
 Before I allow myself to sink into a darkness full of nightmares at the memories of Dan and Kuala Lumpur, I think about Eric, the guy from my office. I don’t know why he pops into my thoughts, he just kind of does. He relaxes me somehow. His presence makes me feel less alone. I stop mulling it all over and fall asleep. 
 
-    return
+---
   
 The dental hygienist knocks over the instrument tray while mounting a patient. The patient is happy to be mounted, and I am the hygienist. As the dentist’s tools clatter to the floor, I see nurses opening the door.
 

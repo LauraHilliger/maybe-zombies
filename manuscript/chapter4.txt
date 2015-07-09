@@ -148,7 +148,7 @@ I park the car outside my building and turn it off.
 
 “Yeah, me neither.”
 
-      return
+---
       
 It’s the phone ringing that wakes me up. Eric is already awake, or maybe he never slept. In any case, he’s watching me. Normally, that would make me uncomfortable, but right now it doesn’t. 
 
@@ -238,7 +238,7 @@ Eric and I talk for another hour about films and books and music. We deliver lin
 
 “Now I’m ready.”
 
-     return
+---
 
 When we get back to the office, no one is in the conference room, but we didn’t need to look in to find that out. The eleventh floor is vibrating. We walk to Jacob’s office where we find Dan playing video games and yelling at the screens. I try several times to announce our arrival, but the volume is up too loud, and Dan is focused on a machete rampage. I wait until the rampage is over, then I tap his shoulder, he jumps three feet into the air, drops the controller, and puts his hands up like he’s about to get in a fight. When he processes that it’s me, he smiles, a little embarrassed, and mutes the game. 
 
@@ -304,8 +304,7 @@ I get a little closer and kneel down, just watching him. I watch his eye flicker
 
 “Let’s go to the pub.”
 
-     return
-     
+---
 
 We have a pub. Not in the building or anything, but we have a pub down the street with low ceilings, green booths, and heavy wooden tables. It’s exactly the type of place you’d expect to see native barflies having drinks at ten thirty in the morning. It’s always open, mostly empty, and the building doesn’t attract any attention to itself. Oscar and I head out of the office in its direction. Neither one of us attempts small talk. Neither one of us is interested in the other’s personality or life. We both want a beer. My motives are clear, I need help. Oscar is getting a beer out of talking to me about my issue, whatever it may be. It’s a win win situation. 
 
