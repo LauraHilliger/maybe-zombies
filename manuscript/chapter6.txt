@@ -10,11 +10,11 @@ When we get to the office, we don’t bother announcing our arrival and everyone
 
 *Hey - 
 
-I hacked into Harron’s IRC, and have attached a conversation between two administrators. You better give it a read. I’d summarize, but you’ll end up reading it anyway, so…
+I hacked into Harron’s IRC, and have attached a conversation between two administrators. You better give it a read. I’d summarize, but you’ll end up reading it anyway, so...
 
 Also attached is the autopsy report, I stole it from Harron’s server, their security is for shit. Start with the IRC.
 
-—Oscar*
+--Oscar*
 
 I download the IRC log and open it in my text editor. The scrollbar is tiny, the document is long:
 
@@ -48,7 +48,7 @@ PresAldie: He was dead. Deceased.
 
 HeSithe: This doesn’t make sense to me. 
 
-PresAldie: The pathologist doing the autopsy…a Doctor Gander, new hire. 
+PresAldie: The pathologist doing the autopsy...a Doctor Gander, new hire. 
 
 HeSithe: The autopsy was already started!?
 
@@ -56,11 +56,11 @@ PresAldie: He was as white as a sheet when he told me what happened. He said tha
 
 HeSithe: Ok, I’ll get back to you in a bit.
 
-PresAldie: Good, if I’m not online, just have someone page me. We need to discuss what exactly we’re telling the press.*
+PresAldie: Good, if I’m not online, just have someone page me. We need to discuss what exactly we’re telling the press. *
 
 I stop reading. The timestamp on the chat shows that after an hour Mr. Aldeson and Mr. Sithe continue their conversation, but I want to read the autopsy report. I switch back to Oscar’s mail and download the second attachment. I skip over the police report and the continuation sheets. 
 
-`EXTERNAL DESCRIPTION:
+EXTERNAL DESCRIPTION:
 
 The body is that of a well-developed and well-nourished Caucasian male which appears to be about the stated age of 46-years-old, weighing approximately 180 pounds and measuring approximately 72 inches in height. The body shows a moderate generalized rigor mortis. The hair is short and mostly grey. The eyes are brown. There are severe petechiae in the conjunctivae and sclerae. The nostrils and mouth show white froth. The ears are unremarkable. The neck, chest, and abdomen show lacerations. The left forearm shows a diffuse recent bruise over the lateral aspect measuring approximately 8 inches by 3 inches in the area between the wrist and elbow. The right arm has a significant bite wound and is moderately deformed on the lateral condyle of the ulna. The protrusion is significant. There are numerous small superficial skin bruises covering the entire body. The bruises appear to be rather fresh. The left ankle bone is dislocated. Avulsion of the scalp and associated galeal and subgaleal hemorrhages.
 
@@ -70,17 +70,17 @@ The body is opened with the Y-shaped incision. The organs in the chest and abdom
 
 CARDIOVASCULAR SYSTEM:
 
-The pericardial sac shows approximately 40 cc. of serous fluid. The heart is normal in size and weighs approximately 230 grams. There are petechial hemorrhages over the epicardium, myocardium, and endocardium. The chambers contain over 100 cc. of serous fluid and blood. The blood has been collected and submitted for toxicologic tests. The valves show abnormality. The coronary arteries show abnormal branching. The aorta shows a severe arteiosclerosis…`
+The pericardial sac shows approximately 40 cc. of serous fluid. The heart is normal in size and weighs approximately 230 grams. There are petechial hemorrhages over the epicardium, myocardium, and endocardium. The chambers contain over 100 cc. of serous fluid and blood. The blood has been collected and submitted for toxicologic tests. The valves show abnormality. The coronary arteries show abnormal branching. The aorta shows a severe arteiosclerosis...
 
 I start scanning through the rest of the sections. I don’t know what half the report means. The report is thirty pages long, so I flip through reading the section headings. On the twenty-seventh page I come to:
 
-`OPINION:
+OPINION:
 
 During collection of nail samples it was observed that onychosis was prevalent. Hair follicles were also observed to be weaker than normal. At first glance signs of osteoporosis are assumed. However, after radiography and bone mineral density measurements, osteoporosis was not diagnosed. 
 
 ![black box](images/black.gif)
 
-Despite the obvious deep wound to the skull, the autopsy findings are consistent with a major viral infection. The viral infection is unidentified.`
+Despite the obvious deep wound to the skull, the autopsy findings are consistent with a major viral infection. The viral infection is unidentified.
 
 The blacked out paragraph is impossible to read. Someone must have taken a sharpie, black spray paint, and the darkness of night to hide those paragraphs. I briefly wonder if Wikileaks would have information on this report, and then switch back to the IRC log.
 
@@ -98,7 +98,7 @@ PresAldie: No. We have video from the surveillance feed.
 
 HeSithe: You watched it?
 
-PresAldie: Yes, and then I destroyed the files. No one should ever have to see that. Particularly not Dr. Paul’s family.*
+PresAldie: Yes, and then I destroyed the files. No one should ever have to see that. Particularly not Dr. Paul’s family. *
 
 I return to my mail program and reply to Oscar. I put Eric and Dan on CC.
 
@@ -107,7 +107,7 @@ I return to my mail program and reply to Oscar. I put Eric and Dan on CC.
 -Maggie*
 
 
-
+# # #
 “Why do you need a jukebox anyway?” The stupidity of this particular conversation dawned on me over a year ago. Dan and I had been in Philadelphia for some sort of wacky, over-the-top library summit. I didn’t even know why we were there. I spent the entire event confused about my purpose in life. Dan spent the entire event talking about the jukebox he found on Ebay. We had a long winded discussion about “extracurricular appliances” in which I said that such devices served the “absurdity of consciousness”. My proposal was that being limited in your material possessions allowed obliviousness towards the more stressful aspects of living in the modern world. Take for example owning a car, and compare it with the inconvenience of having to take public transportation everywhere. Sure, in the latter you don’t have the warm, dry comfort of a foreign built sedan, but you have twenty minutes of uninterrupted anonymity and you don’t have to pay insurance or put gas in anything. The tube goes from point A to point B, and you can get a monthly pass at discount. I guess it depends where you live.
 
 “I need a jukebox so everyone can play Paradise City and reminisce about the Summer of 99,’” Dan parks the car, a pompous 1967 Impala with a white stripe down the side and a goofy antenna topper. We’re in the parking lot of a fifteen story low income highrise. I’m appalled that any of the tenants of this place have a jukebox. 
@@ -128,13 +128,13 @@ A door slams open and I can hear Dan bitching about the weight of the jukebox. I
 
 I sprint over to Dan, “Let’s get out of here!” The cowboy is up again and wobbling towards us, drool falling from his mouth and strewing pieces of flesh across the courtyard. Tendons dangle from the bones in his chest.
 
-“What the fuck is that guy on!?” Not fully grasping the seriousness of the situation, Dan is laughing. I grab half the jukebox, and scream at Dan to move his ass. The cowboy is closer, and Dan finally registers the walking corpse before him. “Oh fuck. Oh fuck. Oh fuck! Oh fuck! Oh FUCK!” The cowboy grabs Dan’s wrist and the jukebox falls face down on the pavement. We hear the glass shatter. I push the cowboy away from Dan and punch him a few times in the face. His bones crackle with each hit, but his strength doesn’t wane. I run away from Dan and the cowboy chases me for a few moments. Then, almost in slow motion, the cowboy turns around and heads back towards Dan who is struggling to flip the jukebox into a standing position.
+“What the fuck is *that* guy on!?” Not fully grasping the seriousness of the situation, Dan is laughing. I grab half the jukebox, and scream at Dan to move his ass. The cowboy is closer, and Dan finally registers the walking corpse before him. “Oh fuck. Oh fuck. Oh fuck! Oh fuck! Oh FUCK!” The cowboy grabs Dan’s wrist and the jukebox falls face down on the pavement. We hear the glass shatter. I push the cowboy away from Dan and punch him a few times in the face. His bones crackle with each hit, but his strength doesn’t wane. I run away from Dan and the cowboy chases me for a few moments. Then, almost in slow motion, the cowboy turns around and heads back towards Dan who is struggling to flip the jukebox into a standing position.
 
 “Leave it!” I’m screaming.
 
 “Fuck you man, I just bought that fucker!” The cowboy falls into Dan who immediately throws him off. The cowboy stumbles backwards, loses his footing and slams head first into the broken birdbath. The jagged edge scalps him, and a piece of his skull flies through the air landing at my feet.
 
-“Oh fuck.” Dan inches towards the man with a look of pure terror on his face. “Not again…” Dan looks at me and says, “You know, the last time I threw a crazyfuck into a broken birdbath, I was tied up in court for a week!” I can’t help but laugh. Dan doesn’t even seem concerned, but I know he is. We go to inspect the body, I pull out my cell phone to call emergency services. Looking down at the corpse, I think that I should be calling research scientists and a team from the CDC and then I remember the IRC conversation from Harron. 
+“Oh fuck.” Dan inches towards the man with a look of pure terror on his face. “Not again...” Dan looks at me and says, “You know, the last time I threw a crazyfuck into a broken birdbath, I was tied up in court for a week!” I can’t help but laugh. Dan doesn’t even seem concerned, but I know he is. We go to inspect the body, I pull out my cell phone to call emergency services. Looking down at the corpse, I think that I should be calling research scientists and a team from the CDC and then I remember the IRC conversation from Harron. 
 
 “Dan?”
 
@@ -150,7 +150,7 @@ Without speaking a word, he asks, “What do we do now?” I walk back over to t
 
 “Well, let’s get this fucking thing in the car.”
 
-
+# # #
 I suffer from a hereditary disease called Onychomycosis. It’s a non life-threatening nail fungus that about 10% of the adult population in western civilization have. The nails turn a little yellow, they’re brittle, they look kind of funny. I have it on my toenails, so you would never know about it. I don’t have a particularly severe case, so people never notice. Not my friends, not my lovers. It’s not on my hands, only my feet. For the longest time, I only had it on two toes - one on each foot. It was always the second toe, next to my big toe. It took about ten years to spread ever so slightly to other toes. It only recently began to be visible on those toes. 
 
 Did you know you need your big toes for balance? Did you know that if you were to lose one of them you wouldn’t be able to walk anymore? I mean, you’d be able to walk, but your equilibrium would be completely thrown. You would zigzag back and forth. You’d stumble a lot. You would have a hard time doing yoga.
@@ -177,11 +177,19 @@ Following this creek had led me through a small wood and deposited me into a fie
 
 At least, there wasn’t a dead body there the first time I found it. 
 
-Dan gives me a look of hate when I tell him that he’s going to help me get rid of the body. It’s broad daylight, so I have him park right next to the path. I deftly  tip up the jukebox pull the body out of the car. He comes more easily than I expect, and I use my stumble to push him into the bushes. I kick his feet out of sight.
+Dan gives me a look of hate when I tell him that he’s going to help me get rid of the body. It’s broad daylight, so I have him park right next to the path. I deftly tip up the jukebox pull the body out of the car. He comes more easily than I expect, and I use my stumble to push him into the bushes. I kick his feet out of sight.
 
 “Park the car and come on.” I have no intention of leaving the body out in the open in my perfect sanctuary, but there was a shed at the quarry that would allow us to store the thing and come back to it. I’d been to this clearing a million times, and I’d not once seen another person once I’d gotten to the power station fence. I’d set up observational booby traps to see if anyone ever came down here, and I’d never caught anyone, so I’m pretty sure it’s all mine. 
 
-Dan and I quickly carry the body down the tracks to the creek. I’m holding the cowboy’s legs under my arms and facing forward and Dan keeps running his knees into the  oozing skull. I don’t know why I’m insisting that we store the body, only that I have the feeling I’ll be happy that we did. Chances are we leave it forever or that it decomposes the way bodies are supposed to.
+Dan and I quickly carry the body down the tracks to the creek. I’m holding the cowboy’s legs under my arms and facing forward and Dan keeps running his knees into the oozing skull. I don’t know why I’m insisting that we store the body, only that I have the feeling I’ll be happy that we did. Chances are we leave it forever or that it decomposes the way bodies are supposed to.
 
-The shed hasn’t been opened since the last time I stored something in it. Last time, I felt the need to hide my old passport, which hadn’t been invalidated when I got the new one. They forgot to punch a hole in it and sent it back to me, still valid. It was a little tattered sure, but I could still use it if there ever came a time when acquiring my new passport was difficult. Of course, if I’m having a difficult time picking up something from my apartment I’m probably already on a do not fly list somewhere. 
+The shed hasn’t been opened since the last time I stored something in it. It is the size of a trailer home’s bedroom. Maybe six by six feet or four by four meters or several raccoon skins by several raccoon skins. I never measured it. It’s just enough space for a couple of wooden shelves lining the walls, slanted from the leaky roof and filled with unusable junk – a jar of rusty bolts, broken glasses, a wet bible, a few rusty door hinges, an old cigar box, barely legible ant poison, a plastic spray bottle with an unidentifiable liquid and a hastily drawn skull and crossbones on it. Leaning against the wall is one of those old rotary lawnmowers rusted through, two wine crates, a spade and a mini pitchfork. The floor features a bunch of leaves and spiderwebs cover the walls from roof to floor. Everything smells a little musty, and everything that isn’t flaking rust, is flaking the white fungus wood gets after it has sat in the rain for a few years.
+
+Last time I’d been here, I felt the need to hide my old passport, which hadn’t been invalidated when I got the new one. They *forgot* to punch a hole in it and sent it back to me, still valid. It was a little tattered sure, but I could still use it if there ever came a time when acquiring my new passport was difficult. Of course, if I’m having a difficult time picking up something from my apartment I’m probably already on a do not fly list somewhere. 
+
+I situate a crate in the corner of the shed while Dan finishes dragging the cowboy in. Together, we sit him on the crate and slump his body into the corner. Behind the cigar box holding my old passport, there’s a pair of broken sunglasses. I take them, dust them off and put them on the cowboy to hide his open, seeping eyeball. 
+
+“Ok,” I say. “Let’s get out of here.” We’re halfway across the field when I decide I should have grabbed the passport, and I run back for it. Even having just discarded him there, the cowboy startles me when I open the door. I open the cigar box, put the passport in my back pocket and look around one last time. Seeing a dusty spool of thread reminds me that my arm is oozing.
+
+I have the feeling I won’t be coming to the quarry again.
 
