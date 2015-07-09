@@ -8,106 +8,107 @@ When we get to the office, we don’t bother announcing our arrival and everyone
 
 “My turn,” I smile at Eric and open the 46. I bring up my email and find that Oscar has sent me another report.
 
-*Hey - 
+*Hey -* 
 
-I hacked into Harron’s IRC, and have attached a conversation between two administrators. You better give it a read. I’d summarize, but you’ll end up reading it anyway, so...
+*I hacked into Harron’s IRC, and have attached a conversation between two administrators. You better give it a read. I’d summarize, but you’ll end up reading it anyway, so...*
 
-Also attached is the autopsy report, I stole it from Harron’s server, their security is for shit. Start with the IRC.
+*Also attached is the autopsy report, I stole it from Harron’s server, their security is for shit. Start with the IRC.*
 
---Oscar*
+*--Oscar*
 
 I download the IRC log and open it in my text editor. The scrollbar is tiny, the document is long:
 
-*HeSithe: Mr. Aldeson?
+*HeSithe: Mr. Aldeson?*
 
-PresAldie: Hi Herman, I’m here.
+*PresAldie: Hi Herman, I’m here.*
 
-HeSithe: I just wanted to chat with you about how you want to handle the press.
+*HeSithe: I just wanted to chat with you about how you want to handle the press.*
 
-PresAldie: Well, if I had my way, the press wouldn’t hear anything about anything.
+*PresAldie: Well, if I had my way, the press wouldn’t hear anything about anything.*
 
-HeSithe: Yes, but there are simply too many hospital employees to believe that we can keep this under wraps.
+*HeSithe: Yes, but there are simply too many hospital employees to believe that we can keep this under wraps.*
 
-HeSithe: the press will find out sooner or later, we should address it sooner. Handle the spin.
+*HeSithe: the press will find out sooner or later, we should address it sooner. Handle the spin.*
 
-PresAldie: Your recommendation is noted, but we have to keep in mind that the CDC has asked us not to have a press conference at all this week. 
+*PresAldie: Your recommendation is noted, but we have to keep in mind that the CDC has asked us not to have a press conference at all this week.*
 
-HeSithe: Oh? I wasn’t privy to that information.
+*HeSithe: Oh? I wasn’t privy to that information.*
 
-PresAldie: You are now. After what happened during Dr. Paul’s autopsy, we are going to need to stay in constant dialogue. Everything you hear needs to be verified with me.
+*PresAldie: You are now. After what happened during Dr. Paul’s autopsy, we are going to need to stay in constant dialogue. Everything you hear needs to be verified with me.*
 
-HeSithe: Are we making any sort of announcement about the autopsy?
+*HeSithe: Are we making any sort of announcement about the autopsy?*
 
-PresAldie: Are you kidding? What are we supposed to say? That Paul came back to life and tried to attack the doctor doing the autopsy?
+*PresAldie: Are you kidding? What are we supposed to say? That Paul came back to life and tried to attack the doctor doing the autopsy?*
 
-HeSithe: I’m sorry, but I don’t know exactly what happened. All I’ve heard is that the surgeon wasn’t really dead.
+*HeSithe: I’m sorry, but I don’t know exactly what happened. All I’ve heard is that the surgeon wasn’t really dead.*
 
-PresAldie: Well that’s not true. He was dead for over three days. I checked him myself. His body was in the freezer.
+*PresAldie: Well that’s not true. He was dead for over three days. I checked him myself. His body was in the freezer.*
 
-PresAldie: He was dead. Deceased.
+*PresAldie: He was dead. Deceased.*
 
-HeSithe: This doesn’t make sense to me. 
+*HeSithe: This doesn’t make sense to me.* 
 
-PresAldie: The pathologist doing the autopsy...a Doctor Gander, new hire. 
+*PresAldie: The pathologist doing the autopsy...a Doctor Gander, new hire.*
 
-HeSithe: The autopsy was already started!?
+*HeSithe: The autopsy was already started!?*
 
-PresAldie: He was as white as a sheet when he told me what happened. He said that Dr. Paul literally got up off the table. I have the full report, you should give it a read. Sending it along.
+*PresAldie: He was as white as a sheet when he told me what happened. He said that Dr. Paul literally got up off the table. I have the full report, you should give it a read. Sending it along.*
 
-HeSithe: Ok, I’ll get back to you in a bit.
+*HeSithe: Ok, I’ll get back to you in a bit.*
 
-PresAldie: Good, if I’m not online, just have someone page me. We need to discuss what exactly we’re telling the press. *
+*PresAldie: Good, if I’m not online, just have someone page me. We need to discuss what exactly we’re telling the press. *
 
 I stop reading. The timestamp on the chat shows that after an hour Mr. Aldeson and Mr. Sithe continue their conversation, but I want to read the autopsy report. I switch back to Oscar’s mail and download the second attachment. I skip over the police report and the continuation sheets. 
 
-EXTERNAL DESCRIPTION:
+	EXTERNAL DESCRIPTION:
 
-The body is that of a well-developed and well-nourished Caucasian male which appears to be about the stated age of 46-years-old, weighing approximately 180 pounds and measuring approximately 72 inches in height. The body shows a moderate generalized rigor mortis. The hair is short and mostly grey. The eyes are brown. There are severe petechiae in the conjunctivae and sclerae. The nostrils and mouth show white froth. The ears are unremarkable. The neck, chest, and abdomen show lacerations. The left forearm shows a diffuse recent bruise over the lateral aspect measuring approximately 8 inches by 3 inches in the area between the wrist and elbow. The right arm has a significant bite wound and is moderately deformed on the lateral condyle of the ulna. The protrusion is significant. There are numerous small superficial skin bruises covering the entire body. The bruises appear to be rather fresh. The left ankle bone is dislocated. Avulsion of the scalp and associated galeal and subgaleal hemorrhages.
+	The body is that of a well-developed and well-nourished Caucasian male which appears to be about the stated age of 46-years-old, weighing 	approximately 180 pounds and measuring approximately 72 inches in height. The body shows a moderate generalized rigor mortis. The hair is 	short and mostly grey. The eyes are brown. There are severe petechiae in the conjunctivae and sclerae. The nostrils and mouth show white 	froth. The ears are unremarkable. The neck, chest, and abdomen show lacerations. The left forearm shows a diffuse recent bruise over the 	lateral aspect measuring approximately 8 inches by 3 inches in the area between the wrist and elbow. The right arm has a significant bite 	wound and is moderately deformed on the lateral condyle of the ulna. The protrusion is significant. There are numerous small superficial 	skin bruises covering the entire body. The bruises appear to be rather fresh. The left ankle bone is dislocated. Avulsion of the scalp and 	associated galeal and subgaleal hemorrhages.
 
-INTERNAL EXAMINATION:
+	INTERNAL EXAMINATION:
 
-The body is opened with the Y-shaped incision. The organs in the chest and abdomen are slightly lower than their normal anatomical positions. The abdominal cavity shows excessive fluids and adhesions. Contusions and hemorrhages are noted.
+	The body is opened with the Y-shaped incision. The organs in the chest and abdomen are slightly lower than their normal anatomical 			positions. The abdominal cavity shows excessive fluids and adhesions. Contusions and hemorrhages are noted.
 
-CARDIOVASCULAR SYSTEM:
+	CARDIOVASCULAR SYSTEM:
 
-The pericardial sac shows approximately 40 cc. of serous fluid. The heart is normal in size and weighs approximately 230 grams. There are petechial hemorrhages over the epicardium, myocardium, and endocardium. The chambers contain over 100 cc. of serous fluid and blood. The blood has been collected and submitted for toxicologic tests. The valves show abnormality. The coronary arteries show abnormal branching. The aorta shows a severe arteiosclerosis...
+	The pericardial sac shows approximately 40 cc. of serous fluid. The heart is normal in size and weighs approximately 230 grams. There are 	petechial hemorrhages over the epicardium, myocardium, and endocardium. The chambers contain over 100 cc. of serous fluid and blood. The 	blood has been collected and submitted for toxicologic tests. The valves show abnormality. The coronary arteries show abnormal branching. 	The aorta shows a severe arteiosclerosis...
 
 I start scanning through the rest of the sections. I don’t know what half the report means. The report is thirty pages long, so I flip through reading the section headings. On the twenty-seventh page I come to:
 
-OPINION:
+	OPINION:
 
-During collection of nail samples it was observed that onychosis was prevalent. Hair follicles were also observed to be weaker than normal. At first glance signs of osteoporosis are assumed. However, after radiography and bone mineral density measurements, osteoporosis was not diagnosed. 
+	During collection of nail samples it was observed that onychosis was prevalent. Hair follicles were also observed to be weaker than 		normal. At first glance signs of osteoporosis are assumed. However, after radiography and bone mineral density measurements, osteoporosis 	was not diagnosed. 
 
-![black box](images/black.gif)
+	![](images/black.gif)
 
-Despite the obvious deep wound to the skull, the autopsy findings are consistent with a major viral infection. The viral infection is unidentified.
+	Despite the obvious deep wound to the skull, the autopsy findings are consistent with a major viral infection. The viral infection is 		unidentified.
 
 The blacked out paragraph is impossible to read. Someone must have taken a sharpie, black spray paint, and the darkness of night to hide those paragraphs. I briefly wonder if Wikileaks would have information on this report, and then switch back to the IRC log.
 
-*HeSithe: I read the autopsy report. What do the blocked out paragraphs say?
+*HeSithe: I read the autopsy report. What do the blocked out paragraphs say?*
 
-PresAldie: What I already told you, that the doctor rose from the dead. It’s much more specific that that. Gruesome even. I had Dr. Gander remove his observations from the autopsy so that the public health board wouldn’t have that information filed for all time. 
+*PresAldie: What I already told you, that the doctor rose from the dead. It’s much more specific that that. Gruesome even. I had Dr. Gander remove his observations from the autopsy so that the public health board wouldn’t have that information filed for all time.*
 
-HeSithe: That doesn’t seem ethical.
+*HeSithe: That doesn’t seem ethical.*
 
-PresAldie: I only did what the CDC asked me to do. Before submitting the autopsy, I read those paragraphs to someone at the CDC, they called it “unverifiable” and asked me to remove it from the report.
+*PresAldie: I only did what the CDC asked me to do. Before submitting the autopsy, I read those paragraphs to someone at the CDC, they called it “unverifiable” and asked me to remove it from the report.*
 
-HeSithe: Is it really “unverifiable”?
+*HeSithe: Is it really “unverifiable”?*
 
-PresAldie: No. We have video from the surveillance feed.
+*PresAldie: No. We have video from the surveillance feed.*
 
-HeSithe: You watched it?
+*HeSithe: You watched it?*
 
-PresAldie: Yes, and then I destroyed the files. No one should ever have to see that. Particularly not Dr. Paul’s family. *
+*PresAldie: Yes, and then I destroyed the files. No one should ever have to see that. Particularly not Dr. Paul’s family. *
 
 I return to my mail program and reply to Oscar. I put Eric and Dan on CC.
 
-*Absolutely stellar work Oscar. This isn’t about me anymore, this is something bigger. If I were going to get sick, I’d be sick by now. But it sounds like Harron is involved in something a little twisted. This story is getting fucking weird. Can you try and get the video file from the server? I doubt the administration knows how to delete backup files, and a hospital is probably doing automatic backups of some sort. 
+*Absolutely stellar work Oscar. This isn’t about me anymore, this is something bigger. If I were going to get sick, I’d be sick by now. But it sounds like Harron is involved in something a little twisted. This story is getting fucking weird. Can you try and get the video file from the server? I doubt the administration knows how to delete backup files, and a hospital is probably doing automatic backups of some sort.*
 
--Maggie*
+*-Maggie*
 
-
-# # #
+    return
+    
+    
 “Why do you need a jukebox anyway?” The stupidity of this particular conversation dawned on me over a year ago. Dan and I had been in Philadelphia for some sort of wacky, over-the-top library summit. I didn’t even know why we were there. I spent the entire event confused about my purpose in life. Dan spent the entire event talking about the jukebox he found on Ebay. We had a long winded discussion about “extracurricular appliances” in which I said that such devices served the “absurdity of consciousness”. My proposal was that being limited in your material possessions allowed obliviousness towards the more stressful aspects of living in the modern world. Take for example owning a car, and compare it with the inconvenience of having to take public transportation everywhere. Sure, in the latter you don’t have the warm, dry comfort of a foreign built sedan, but you have twenty minutes of uninterrupted anonymity and you don’t have to pay insurance or put gas in anything. The tube goes from point A to point B, and you can get a monthly pass at discount. I guess it depends where you live.
 
 “I need a jukebox so everyone can play Paradise City and reminisce about the Summer of 99,’” Dan parks the car, a pompous 1967 Impala with a white stripe down the side and a goofy antenna topper. We’re in the parking lot of a fifteen story low income highrise. I’m appalled that any of the tenants of this place have a jukebox. 
@@ -150,7 +151,8 @@ Without speaking a word, he asks, “What do we do now?” I walk back over to t
 
 “Well, let’s get this fucking thing in the car.”
 
-# # #
+   return
+   
 I suffer from a hereditary disease called Onychomycosis. It’s a non life-threatening nail fungus that about 10% of the adult population in western civilization have. The nails turn a little yellow, they’re brittle, they look kind of funny. I have it on my toenails, so you would never know about it. I don’t have a particularly severe case, so people never notice. Not my friends, not my lovers. It’s not on my hands, only my feet. For the longest time, I only had it on two toes - one on each foot. It was always the second toe, next to my big toe. It took about ten years to spread ever so slightly to other toes. It only recently began to be visible on those toes. 
 
 Did you know you need your big toes for balance? Did you know that if you were to lose one of them you wouldn’t be able to walk anymore? I mean, you’d be able to walk, but your equilibrium would be completely thrown. You would zigzag back and forth. You’d stumble a lot. You would have a hard time doing yoga.

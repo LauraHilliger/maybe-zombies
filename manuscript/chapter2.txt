@@ -38,7 +38,8 @@ The memory sends a cold shiver up my spine, mainly because I had slept with that
 
 Before I allow myself to sink into a darkness full of nightmares at the memories of Dan and Kuala Lumpur, I think about Eric, the guy from my office. I don’t know why he pops into my thoughts, he just kind of does. He relaxes me somehow. His presence makes me feel less alone. I stop mulling it all over and fall asleep. 
 
-  return
+    return
+  
 The dental hygienist knocks over the instrument tray while mounting a patient. The patient is happy to be mounted, and I am the hygienist. As the dentist’s tools clatter to the floor, I see nurses opening the door.
 
 Suddenly I’m awake, startled out of sleep by the nurses’ one thirty in the morning checkup. I quickly close my eyes again. One nurse leans in to my roommate, and the other observes me. I keep my eyes closed and try to breathe steadily. Two plastic cups, one with a suppository and one with a single little white pill are placed on my nightstand. Two seconds later, they’re done pretending to do their jobs, and they chit-chat on their way out of the room.
