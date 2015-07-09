@@ -60,27 +60,27 @@ I download the IRC log and open it in my text editor. The scrollbar is tiny, the
 
 I stop reading. The timestamp on the chat shows that after an hour Mr. Aldeson and Mr. Sithe continue their conversation, but I want to read the autopsy report. I switch back to Oscar’s mail and download the second attachment. I skip over the police report and the continuation sheets. 
 
-	EXTERNAL DESCRIPTION:
-
-	The body is that of a well-developed and well-nourished Caucasian male which appears to be about the stated age of 46-years-old, weighing 	approximately 180 pounds and measuring approximately 72 inches in height. The body shows a moderate generalized rigor mortis. The hair is 	short and mostly grey. The eyes are brown. There are severe petechiae in the conjunctivae and sclerae. The nostrils and mouth show white 	froth. The ears are unremarkable. The neck, chest, and abdomen show lacerations. The left forearm shows a diffuse recent bruise over the 	lateral aspect measuring approximately 8 inches by 3 inches in the area between the wrist and elbow. The right arm has a significant bite 	wound and is moderately deformed on the lateral condyle of the ulna. The protrusion is significant. There are numerous small superficial 	skin bruises covering the entire body. The bruises appear to be rather fresh. The left ankle bone is dislocated. Avulsion of the scalp and 	associated galeal and subgaleal hemorrhages.
-
-	INTERNAL EXAMINATION:
-
-	The body is opened with the Y-shaped incision. The organs in the chest and abdomen are slightly lower than their normal anatomical 			positions. The abdominal cavity shows excessive fluids and adhesions. Contusions and hemorrhages are noted.
-
-	CARDIOVASCULAR SYSTEM:
-
-	The pericardial sac shows approximately 40 cc. of serous fluid. The heart is normal in size and weighs approximately 230 grams. There are 	petechial hemorrhages over the epicardium, myocardium, and endocardium. The chambers contain over 100 cc. of serous fluid and blood. The 	blood has been collected and submitted for toxicologic tests. The valves show abnormality. The coronary arteries show abnormal branching. 	The aorta shows a severe arteiosclerosis...
+> EXTERNAL DESCRIPTION:
+>
+>The body is that of a well-developed and well-nourished Caucasian male which appears to be about the stated age of 46-years-old, weighing 	>approximately 180 pounds and measuring approximately 72 inches in height. The body shows a moderate generalized rigor mortis. The hair is 	>short and mostly grey. The eyes are brown. There are severe petechiae in the conjunctivae and sclerae. The nostrils and mouth show white 	>froth. The ears are unremarkable. The neck, chest, and abdomen show lacerations. The left forearm shows a diffuse recent bruise over the 	>lateral aspect measuring approximately 8 inches by 3 inches in the area between the wrist and elbow. The right arm has a significant bite 	>wound and is moderately deformed on the lateral condyle of the ulna. The protrusion is significant. There are numerous small superficial 	>skin bruises covering the entire body. The bruises appear to be rather fresh. The left ankle bone is dislocated. Avulsion of the scalp and >associated galeal and subgaleal hemorrhages.
+>
+>INTERNAL EXAMINATION:
+>
+>The body is opened with the Y-shaped incision. The organs in the chest and abdomen are slightly lower than their normal anatomical positions. The abdominal cavity shows excessive fluids and adhesions. Contusions and hemorrhages are noted.
+>
+>CARDIOVASCULAR SYSTEM:
+>
+>The pericardial sac shows approximately 40 cc. of serous fluid. The heart is normal in size and weighs approximately 230 grams. There are 	>petechial hemorrhages over the epicardium, myocardium, and endocardium. The chambers contain over 100 cc. of serous fluid and blood. The 	>blood has been collected and submitted for toxicologic tests. The valves show abnormality. The coronary arteries show abnormal branching. 	>The aorta shows a severe arteiosclerosis...
 
 I start scanning through the rest of the sections. I don’t know what half the report means. The report is thirty pages long, so I flip through reading the section headings. On the twenty-seventh page I come to:
 
-	OPINION:
-
-	During collection of nail samples it was observed that onychosis was prevalent. Hair follicles were also observed to be weaker than 		normal. At first glance signs of osteoporosis are assumed. However, after radiography and bone mineral density measurements, osteoporosis 	was not diagnosed. 
-
-	![](images/black.gif)
-
-	Despite the obvious deep wound to the skull, the autopsy findings are consistent with a major viral infection. The viral infection is 		unidentified.
+>OPINION:
+>
+>During collection of nail samples it was observed that onychosis was prevalent. Hair follicles were also observed to be weaker than 		normal. At first glance signs of osteoporosis are assumed. However, after radiography and bone mineral density measurements, osteoporosis 	was not diagnosed. 
+>
+>![](images/black.gif)
+>
+>Despite the obvious deep wound to the skull, the autopsy findings are consistent with a major viral infection. The viral infection is 		unidentified.
 
 The blacked out paragraph is impossible to read. Someone must have taken a sharpie, black spray paint, and the darkness of night to hide those paragraphs. I briefly wonder if Wikileaks would have information on this report, and then switch back to the IRC log.
 
