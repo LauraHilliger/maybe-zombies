@@ -97,7 +97,7 @@ The doctor takes a small vacuum from his toolkit and sucks out the carrot. He pu
 “Not more than a couple of weeks.” Inside, I flip out, start yelling about this not being prison and such, but my visible reaction is a simple nod. I have no intention of staying here for two more days, let alone two more weeks. 
 
 
-
+  return
 I don’t really have any family, but I have friends. I have a home and pets and a job. I have a pretty typical, every day kind of life. But lately, I've been thinking about escaping. As if I am trapped. 
 
 There’s just something about the work-a-day world that has been getting to me lately. Everyone has been walking around as if their lives are carved into stone. It’s been a long time since I’ve seen anyone make a brash decision. Everyone does what they’re told. I hate that about the world. 
@@ -313,7 +313,7 @@ I swallowed as I closed my eyes. I’d never had that kind of pain in my throat 
 In the airport, I was feeling dizzy. I just wanted to sleep some more, even though I’d been sleeping much of the last several days. The flight was direct but still nineteen hours. I had slept through all of it. At the baggage carousel, I gathered my bags, told Dan I’d see him later, and then grabbed a taxi. When I got home, I threw my bags on the floor. I popped another two aspirin and then went to sleep. It was too late in the day to go see my doctor anyway. His walk-in hours are only until nine-thirty on Sundays. I don’t know why he has hours on Sundays at all.
 
 
-
+  return
 I woke up at ten-thirty. “Goddamnit!” I said out loud. My doctor’s office wasn’t far away, but I’d just slept another nineteen hours. The thing on my neck was now the size of a baseball, regulation size. I skipped the shower after seeing the abscess. I just threw on some clothes and headed towards the doctor.
 
 When I arrived, the waiting room was full. I waited at the reception desk behind two other patients. I was feeling impatient, but also too sick to cause a fuss. 
