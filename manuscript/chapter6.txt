@@ -1,196 +1,197 @@
+
 #Chapter 6
 
-We’re driving to Onyx. Eric didn’t want me to leave the apartment, but after the weekend we had, he can’t tell me no. He told Jacob he wasn’t coming into work, and he’s not changing his story, though technically we are going into the office. The streets are seemingly full for this time of day. The lunch buffets must have pushed their hours a bit, and sure enough I notice a group of sloppily dressed women waddling out of the China Hut on the other side of the intersection. A sea turtle on dry land would have used the passing lane with these women. Their fat bulges beneath their blouses as they duckwalk down the street. I feel like the light we’re sitting at is taking forever to change green. I’m staring at these women in blank horror. I feel a deep seeded terror that someday that could happen to me. Someday, I could be a fat, ugly, office employee having a lunch buffet at a fucking China Hut. 
 
-When the light changes green, I remember that there is no way that I could end up like that. I don’t have the proper genetical makeup for obesity. 
+We're driving to Onyx. Eric didn't want me to leave the apartment, but after the weekend we had, he can't tell me no. He told Jacob he wasn't coming into work, and he's not changing his story, though technically we are going into the office. The streets are seemingly full for this time of day. The lunch buffets must have pushed their hours a bit, and sure enough I notice a group of sloppily dressed women waddling out of the China Hut on the other side of the intersection. A sea turtle on dry land would have used the passing lane with these women. Their fat bulges beneath their blouses as they duckwalk down the street. I feel like the light we're sitting at is taking forever to change green. I'm staring at these women in blank horror. I feel a deep seeded terror that someday that could happen to me. Someday, I could be a fat, ugly, office employee having a lunch buffet at a fucking China Hut. 
 
-When we get to the office, we don’t bother announcing our arrival and everyone is deep enough in their own work, they don’t notice that we’re there. Eric pulls the blinds, and locks the door. The 46 Book is on the table, and I grab it quickly. 
+When the light changes green, I remember that there is no way that I could end up like that. I don't have the proper genetical makeup for obesity. 
 
-“My turn,” I smile at Eric and open the 46. I bring up my email and find that Oscar has sent me another report.
+When we get to the office, we don't bother announcing our arrival and everyone is deep enough in their own work, they don't notice that we're there. Eric pulls the blinds, and locks the door. The 46 Book is on the table, and I grab it quickly. 
 
-*Hey -* 
+"My turn," I smile at Eric and open the 46. I bring up my email and find that Oscar has sent me another report.
 
-*I hacked into Harron’s IRC, and have attached a conversation between two administrators. You better give it a read. I’d summarize, but you’ll end up reading it anyway, so...*
+*Hey - 
 
-*Also attached is the autopsy report, I stole it from Harron’s server, their security is for shit. Start with the IRC.*
+I hacked into Harron's IRC, and have attached a conversation between two administrators. You better give it a read. I'd summarize, but you'll end up reading it anyway, so...
 
-*--Oscar*
+Also attached is the autopsy report, I stole it from Harron's server, their security is for shit. Start with the IRC.
+
+--Oscar*
 
 I download the IRC log and open it in my text editor. The scrollbar is tiny, the document is long:
 
-*HeSithe: Mr. Aldeson?*
+*HeSithe: Mr. Aldeson?
 
-*PresAldie: Hi Herman, I’m here.*
+PresAldie: Hi Herman, I'm here.
 
-*HeSithe: I just wanted to chat with you about how you want to handle the press.*
+HeSithe: I just wanted to chat with you about how you want to handle the press.
 
-*PresAldie: Well, if I had my way, the press wouldn’t hear anything about anything.*
+PresAldie: Well, if I had my way, the press wouldn't hear anything about anything.
 
-*HeSithe: Yes, but there are simply too many hospital employees to believe that we can keep this under wraps.*
+HeSithe: Yes, but there are simply too many hospital employees to believe that we can keep this under wraps.
 
-*HeSithe: the press will find out sooner or later, we should address it sooner. Handle the spin.*
+HeSithe: the press will find out sooner or later, we should address it sooner. Handle the spin.
 
-*PresAldie: Your recommendation is noted, but we have to keep in mind that the CDC has asked us not to have a press conference at all this week.*
+PresAldie: Your recommendation is noted, but we have to keep in mind that the CDC has asked us not to have a press conference at all this week. 
 
-*HeSithe: Oh? I wasn’t privy to that information.*
+HeSithe: Oh? I wasn't privy to that information.
 
-*PresAldie: You are now. After what happened during Dr. Paul’s autopsy, we are going to need to stay in constant dialogue. Everything you hear needs to be verified with me.*
+PresAldie: You are now. After what happened during Dr. Paul's autopsy, we are going to need to stay in constant dialogue. Everything you hear needs to be verified with me.
 
-*HeSithe: Are we making any sort of announcement about the autopsy?*
+HeSithe: Are we making any sort of announcement about the autopsy?
 
-*PresAldie: Are you kidding? What are we supposed to say? That Paul came back to life and tried to attack the doctor doing the autopsy?*
+PresAldie: Are you kidding? What are we supposed to say? That Paul came back to life and tried to attack the doctor doing the autopsy?
 
-*HeSithe: I’m sorry, but I don’t know exactly what happened. All I’ve heard is that the doctor wasn’t really dead.*
+HeSithe: I'm sorry, but I don't know exactly what happened. All I've heard is that the doctor wasn't really dead.
 
-*PresAldie: Well that’s not true. He was dead for over three days. I checked him myself. His body was in the freezer.*
+PresAldie: Well that's not true. He was dead for over three days. I checked him myself. His body was in the freezer.
 
-*PresAldie: He was dead. Deceased.*
+PresAldie: He was dead. Deceased.
 
-*HeSithe: This doesn’t make sense to me.* 
+HeSithe: This doesn't make sense to me. 
 
-*PresAldie: The pathologist doing the autopsy...a Doctor Gander, new hire.*
+PresAldie: The pathologist doing the autopsy...a Doctor Gander, new hire. 
 
-*HeSithe: The autopsy was already started!?*
+HeSithe: The autopsy was already started!?
 
-*PresAldie: He was as white as a sheet when he told me what happened. He said that Dr. Paul literally got up off the table. I have the full report, you should give it a read. Sending it along.*
+PresAldie: He was as white as a sheet when he told me what happened. He said that Dr. Paul literally got up off the table. I have the full report, you should give it a read. Sending it along.
 
-*HeSithe: Ok, I’ll get back to you in a bit.*
+HeSithe: Ok, I'll get back to you in a bit.
 
-*PresAldie: Good, if I’m not online, just have someone page me. We need to discuss what exactly we’re telling the press. *
+PresAldie: Good, if I'm not online, just have someone page me. We need to discuss what exactly we're telling the press. *
 
-I stop reading. The timestamp on the chat shows that after an hour Mr. Aldeson and Mr. Sithe continue their conversation, but I want to read the autopsy report. I switch back to Oscar’s mail and download the second attachment. I skip over the police report and the continuation sheets. 
+I stop reading. The timestamp on the chat shows that after an hour Mr. Aldeson and Mr. Sithe continue their conversation, but I want to read the autopsy report. I switch back to Oscar's mail and download the second attachment. I skip over the police report and the continuation sheets. 
 
-> EXTERNAL DESCRIPTION:
->
->The body is that of a well-developed and well-nourished Caucasian male which appears to be about the stated age of 46-years-old, weighing 	>approximately 180 pounds and measuring approximately 72 inches in height. The body shows a moderate generalized rigor mortis. The hair is 	>short and mostly grey. The eyes are brown. There are severe petechiae in the conjunctivae and sclerae. The nostrils and mouth show white 	>froth. The ears are unremarkable. The neck, chest, and abdomen show lacerations. The left forearm shows a diffuse recent bruise over the 	>lateral aspect measuring approximately 8 inches by 3 inches in the area between the wrist and elbow. The right arm has a significant bite 	>wound and is moderately deformed on the lateral condyle of the ulna. The protrusion is significant. There are numerous small superficial 	>skin bruises covering the entire body. The bruises appear to be rather fresh. The left ankle bone is dislocated. Avulsion of the scalp and >associated galeal and subgaleal hemorrhages.
->
->INTERNAL EXAMINATION:
->
->The body is opened with the Y-shaped incision. The organs in the chest and abdomen are slightly lower than their normal anatomical positions. The abdominal cavity shows excessive fluids and adhesions. Contusions and hemorrhages are noted.
->
->CARDIOVASCULAR SYSTEM:
->
->The pericardial sac shows approximately 40 cc. of serous fluid. The heart is normal in size and weighs approximately 230 grams. There are 	>petechial hemorrhages over the epicardium, myocardium, and endocardium. The chambers contain over 100 cc. of serous fluid and blood. The 	>blood has been collected and submitted for toxicologic tests. The valves show abnormality. The coronary arteries show abnormal branching. 	>The aorta shows a severe arteiosclerosis...
+EXTERNAL DESCRIPTION:
 
-I start scanning through the rest of the sections. I don’t know what half the report means. The report is thirty pages long, so I flip through reading the section headings. On the twenty-seventh page I come to:
+The body is that of a well-developed and well-nourished Caucasian male which appears to be about the stated age of 46-years-old, weighing approximately 180 pounds and measuring approximately 72 inches in height. The body shows a moderate generalized rigor mortis. The hair is short and mostly grey. The eyes are brown. There are severe petechiae in the conjunctivae and sclerae. The nostrils and mouth show white froth. The ears are unremarkable. The neck, chest, and abdomen show lacerations. The left forearm shows a diffuse recent bruise over the lateral aspect measuring approximately 8 inches by 3 inches in the area between the wrist and elbow. The right arm has a significant bite wound and is moderately deformed on the lateral condyle of the ulna. The protrusion is significant. There are numerous small superficial skin bruises covering the entire body. The bruises appear to be rather fresh. The left ankle bone is dislocated. Avulsion of the scalp and associated galeal and subgaleal hemorrhages.
 
->OPINION:
->
->During collection of nail samples it was observed that onychosis was prevalent. Hair follicles were also observed to be weaker than 		normal. At first glance signs of osteoporosis are assumed. However, after radiography and bone mineral density measurements, osteoporosis 	was not diagnosed. 
->
->![](images/black.gif)
->
->Despite the obvious deep wound to the skull, the autopsy findings are consistent with a major viral infection. The viral infection is 		unidentified.
+INTERNAL EXAMINATION:
+
+The body is opened with the Y-shaped incision. The organs in the chest and abdomen are slightly lower than their normal anatomical positions. The abdominal cavity shows excessive fluids and adhesions. Contusions and hemorrhages are noted.
+
+CARDIOVASCULAR SYSTEM:
+
+The pericardial sac shows approximately 40 cc. of serous fluid. The heart is normal in size and weighs approximately 230 grams. There are petechial hemorrhages over the epicardium, myocardium, and endocardium. The chambers contain over 100 cc. of serous fluid and blood. The blood has been collected and submitted for toxicologic tests. The valves show abnormality. The coronary arteries show abnormal branching. The aorta shows a severe arteiosclerosis...
+
+I start scanning through the rest of the sections. I don't know what half the report means. The report is thirty pages long, so I flip through reading the section headings. On the twenty-seventh page I come to:
+
+OPINION:
+
+During collection of nail samples it was observed that onychosis was prevalent. Hair follicles were also observed to be weaker than normal. At first glance signs of osteoporosis are assumed. However, after radiography and bone mineral density measurements, osteoporosis was not diagnosed. 
+
+![black box](images/black.gif)
+
+Despite the obvious deep wound to the skull, the autopsy findings are consistent with a major viral infection. The viral infection is unidentified.
 
 The blacked out paragraph is impossible to read. Someone must have taken a sharpie, black spray paint, and the darkness of night to hide those paragraphs. I briefly wonder if Wikileaks would have information on this report, and then switch back to the IRC log.
 
-*HeSithe: I read the autopsy report. What do the blocked out paragraphs say?*
+*HeSithe: I read the autopsy report. What do the blocked out paragraphs say?
 
-*PresAldie: What I already told you, that the doctor rose from the dead. It’s much more specific that that. Gruesome even. I had Dr. Gander remove his observations from the autopsy so that the public health board wouldn’t have that information filed for all time.*
+PresAldie: What I already told you, that the doctor rose from the dead. It's much more specific that that. Gruesome even. I had Dr. Gander remove his observations from the autopsy so that the public health board wouldn't have that information filed for all time. 
 
-*HeSithe: That doesn’t seem ethical.*
+HeSithe: That doesn't seem ethical.
 
-*PresAldie: I only did what the CDC asked me to do. Before submitting the autopsy, I read those paragraphs to someone at the CDC, they called it “unverifiable” and asked me to remove it from the report.*
+PresAldie: I only did what the CDC asked me to do. Before submitting the autopsy, I read those paragraphs to someone at the CDC, they called it "unverifiable" and asked me to remove it from the report.
 
-*HeSithe: Is it really “unverifiable”?*
+HeSithe: Is it really "unverifiable"?
 
-*PresAldie: No. We have video from the surveillance feed.*
+PresAldie: No. We have video from the surveillance feed.
 
-*HeSithe: You watched it?*
+HeSithe: You watched it?
 
-*PresAldie: Yes, and then I destroyed the files. No one should ever have to see that. Particularly not Dr. Paul’s family. *
+PresAldie: Yes, and then I destroyed the files. No one should ever have to see that. Particularly not Dr. Paul's family. *
 
 I return to my mail program and reply to Oscar. I put Eric and Dan on CC.
 
-*Absolutely stellar work Oscar. This isn’t about me anymore, this is something bigger. If I were going to get sick, I’d be sick by now. But it sounds like Harron is involved in something a little twisted. This story is getting fucking weird. Can you try and get the video file from the server? I doubt the administration knows how to delete backup files, and a hospital is probably doing automatic backups of some sort.*
+*Absolutely stellar work Oscar. This isn't about me anymore, this is something bigger. If I were going to get sick, I'd be sick by now. But it sounds like Harron is involved in something a little twisted. This story is getting fucking weird. Can you try and get the video file from the server? I doubt the administration knows how to delete backup files, and a hospital is probably doing automatic backups of some sort. 
 
-*-Maggie*
+-Maggie*
 
----
-    
-“Why do you need a jukebox anyway?” The stupidity of this particular conversation dawned on me over a year ago. Dan and I had been in Philadelphia for some sort of wacky, over-the-top library summit. I didn’t even know why we were there. I spent the entire event confused about my purpose in life. Dan spent the entire event talking about the jukebox he found on Ebay. We had a long winded discussion about “extracurricular appliances” in which I said that such devices served the “absurdity of consciousness”. My proposal was that being limited in your material possessions allowed obliviousness towards the more stressful aspects of living in the modern world. Take for example owning a car, and compare it with the inconvenience of having to take public transportation everywhere. Sure, in the latter you don’t have the warm, dry comfort of a foreign built sedan, but you have twenty minutes of uninterrupted anonymity and you don’t have to pay insurance or put gas in anything. The tube goes from point A to point B, and you can get a monthly pass at discount. I guess it depends where you live.
-
-“I need a jukebox so everyone can play Paradise City and reminisce about the Summer of 99,’” Dan parks the car, a pompous 1967 Impala with a white stripe down the side and a goofy antenna topper. We’re in the parking lot of a fifteen story low income highrise. I’m appalled that any of the tenants of this place have a jukebox. 
-
-“I’m waiting outside.”
-
-“Whatever. Be right back.”
-
-The courtyard I’m standing in wouldn’t be green during the most fertile spring. Laundry lines with forgotten clothing articles crisscross between buildings. The trashcan next to the door is rusted to the railing. Abandoned gardening tools lean against a broken birdbath. Dan’s gone before I find a place to sit down. Disappeared inside the building. Sighing that the elevator is out of service. Or whatever kind of mental observation he makes.
-
-I’m daydreaming about tropical islands and boat trips. Wouldn’t it be nice to say “screw it” and leave all of those responsibilities behind? I could just grab a computer and disappear to the Canary Islands, design menus for local restaurants and teach IT classes. I’d have a little hut by the sea and read National Geographic magazines from the fifties. I relax near the sea without a care in the world. Just as my man servant, Jesus, delivers a cocktail with a little umbrella in it, the sun on my face turns to shadow.
-
-“Holy shit!” I jump up from the bench just as a man grasps at my arm. Flesh is peeling from his face. His left eye is only loosely in the socket as he stumbles over the bench. I have to swallow down the bile as he groans and thrashes towards me. His ribs are no longer connected to his skin, and for whatever reason his jaw is opening and closing in a completely horrific fashion. For a second, I wonder if my daydream turned in an apocalyptic vision. I let out a sigh and relax, it’s just a dream. I let go, astounded at the reality of my imagination, until a wet goo falls onto my neck and slithers into my shirt. As the slime rolls towards the curve of my breast, it picks up speed and I see myself spitting phlegm into the sink at the hospital. My hallucination is painful, and I realize this is really happening. This fucking guy has what’s left of his arms around me!
-
-I throw all the force I can muster forward, pitching my assailant over my head. I wonder where I learned that move before I loose my balance. Comically, I fall backwards into the shrubbery. His aggression is obvious, this guy gets up snarls and comes towards me again. The courtyard between the apartment blocks spins around me, but I manage to put ten paces between myself and the crazy that’s attacking me. He’s slow winded. My ten paces become twenty, and I have a moment to study him. He’s grey and broken wearing a leather vest with fringe remainder. It’s the cowboy from the bar, barely recognizable, but it’s him. 
-
-A door slams open and I can hear Dan bitching about the weight of the jukebox. I don’t take my eyes off the cowboy, who is continuing to advance on me with his mouth open and a vacant look in his eyes. I study his balance. He’s moving on autopilot. There’s no grace in his movements at all, like he’s been programmed to move. I glance at Dan, who has apparently not yet noticed the situation I’m in. I stand there as the cowboy closes distance. When he’s two feet from me, he awkwardly lurches, and I drop kick him. I hear his ribs crack. He loses his balance, and squirms on the ground for a moment before figuring out how to stand up again. His expression doesn’t change for a second, it’s empty. Just empty.
-
-I sprint over to Dan, “Let’s get out of here!” The cowboy is up again and wobbling towards us, drool falling from his mouth and strewing pieces of flesh across the courtyard. Tendons dangle from the bones in his chest.
-
-“What the fuck is *that* guy on!?” Not fully grasping the seriousness of the situation, Dan is laughing. I grab half the jukebox, and scream at Dan to move his ass. The cowboy is closer, and Dan finally registers the walking corpse before him. “Oh fuck. Oh fuck. Oh fuck! Oh fuck! Oh FUCK!” The cowboy grabs Dan’s wrist and the jukebox falls face down on the pavement. We hear the glass shatter. I push the cowboy away from Dan and punch him a few times in the face. His bones crackle with each hit, but his strength doesn’t wane. I run away from Dan and the cowboy chases me for a few moments. Then, almost in slow motion, the cowboy turns around and heads back towards Dan who is struggling to flip the jukebox into a standing position.
-
-“Leave it!” I’m screaming.
-
-“Fuck you man, I just bought that fucker!” The cowboy falls into Dan who immediately throws him off. The cowboy stumbles backwards, loses his footing and slams head first into the broken birdbath. The jagged edge scalps him, and a piece of his skull flies through the air landing at my feet.
-
-“Oh fuck.” Dan inches towards the man with a look of pure terror on his face. “Not again...” Dan looks at me and says, “You know, the last time I threw a crazyfuck into a broken birdbath, I was tied up in court for a week!” I can’t help but laugh. Dan doesn’t even seem concerned, but I know he is. We go to inspect the body, I pull out my cell phone to call emergency services. Looking down at the corpse, I think that I should be calling research scientists and a team from the CDC and then I remember the IRC conversation from Harron. 
-
-“Dan?”
-
-“What?”
-
-“Did you just see his mouth move?” The cowboy sits straight up, grabs my arm and chomps down hard. As I scream, Dan smacks him in the head with a shovel. Parts of his brain fly into my face, and Dan nails him again. Dan pulls me up and wraps his arms around me.
-
-“I’m sorry, I’m sorry.” He’s barely functioning, I can see his worldview collapsing around him. He’s crying and muttering and hugging me too hard. 
-
-“Too hard,” I gasp. He releases me and looks me in the eye. 
-
-Without speaking a word, he asks, “What do we do now?” I walk back over to the jukebox. 
-
-“Well, let’s get this fucking thing in the car.”
 
 ---
-   
-I suffer from a hereditary disease called Onychomycosis. It’s a non life-threatening nail fungus that about 10% of the adult population in western civilization have. The nails turn a little yellow, they’re brittle, they look kind of funny. I have it on my toenails, so you would never know about it. I don’t have a particularly severe case, so people never notice. Not my friends, not my lovers. It’s not on my hands, only my feet. For the longest time, I only had it on two toes - one on each foot. It was always the second toe, next to my big toe. It took about ten years to spread ever so slightly to other toes. It only recently began to be visible on those toes. 
+"Why do you need a jukebox anyway?" The stupidity of this particular conversation dawned on me over a year ago. Dan and I had been in Philadelphia for some sort of wacky, over-the-top library summit. I didn't even know why we were there. I spent the entire event confused about my purpose in life. Dan spent the entire event talking about the jukebox he found on Ebay. We had a long winded discussion about "extracurricular appliances" in which I said that such devices served the "absurdity of consciousness". My proposal was that being limited in your material possessions allowed obliviousness towards the more stressful aspects of living in the modern world. Take for example owning a car, and compare it with the inconvenience of having to take public transportation everywhere. Sure, in the latter you don't have the warm, dry comfort of a foreign built sedan, but you have twenty minutes of uninterrupted anonymity and you don't have to pay insurance or put gas in anything. The tube goes from point A to point B, and you can get a monthly pass at discount. I guess it depends where you live.
 
-Did you know you need your big toes for balance? Did you know that if you were to lose one of them you wouldn’t be able to walk anymore? I mean, you’d be able to walk, but your equilibrium would be completely thrown. You would zigzag back and forth. You’d stumble a lot. You would have a hard time doing yoga.
+"I need a jukebox so everyone can play Paradise City and reminisce about the Summer of 99,'" Dan parks the car, a pompous 1967 Impala with a white stripe down the side and a goofy antenna topper. We're in the parking lot of a fifteen story low income highrise. I'm appalled that any of the tenants of this place have a jukebox. 
 
-There is antibiotic and injection treatments for this nail fungus, but it’s extremely taxing on the body. It can take up to a year and a half of regular treatments to get rid of it, and it’s expensive.
+"I'm waiting outside."
 
-I like having this fungus. About once a month I get great joy out of cleaning the fungus out from other my nails. I take a nice long bath. I read something interesting, and I soak all my parts. When I can’t sit there anymore, I climb out and wrap myself in a big fluffy towel. I fish under the bathroom sink for the small pointed wooden stick I fashioned specifically for this purpose, and I sit on the edge of the bed cleaning the packed, flakey fungus from beneath my toe nails. 
+"Whatever. Be right back."
 
-My left foot always has more of the yellow paste sticking to the underside of my toenails. I always break the left side nails a little more than the right side. The left big toe has long black hairs. The right side doesn’t. Similarly, the nipple on my left breast has long black hairs, which I trim regularly. The left breast is a little bigger, and the hairs are longer, darker. All in all, I would say that the left side of my body is the monster side. It’s the side that requires lots of upkeep. It’s the side that I keep finding anomalies on. It’s the side that will develop the cancer.
+The courtyard I'm standing in wouldn't be green during the most fertile spring. Laundry lines with forgotten clothing articles crisscross between buildings. The trashcan next to the door is rusted to the railing. Abandoned gardening tools lean against a broken birdbath. Dan's gone before I find a place to sit down. Disappeared inside the building. Sighing that the elevator is out of service. Or whatever kind of mental observation he makes.
 
-And now it’s the side that has been bitten.
+I'm daydreaming about tropical islands and boat trips. Wouldn't it be nice to say "screw it" and leave all of those responsibilities behind? I could just grab a computer and disappear to the Canary Islands, design menus for local restaurants and teach IT classes. I'd have a little hut by the sea and read National Geographic magazines from the fifties. I relax near the sea without a care in the world. Just as my man servant, Jesus, delivers a cocktail with a little umbrella in it, the sun on my face turns to shadow.
 
-“So what are we going to do with the body?” Dan is looking at me like I’m nuts. We just spent twenty minutes trying to figure out how to get both the cowboy and the jukebox in the trunk. Or rather, I spent twenty minutes trying to get them both in the trunk while Dan just asked over and over again “What are you doing?” I eventually figured it out with some creative limb positioning and a degree of incline to the jukebox. I ignored the severed finger as I squished the trunk closed and did a skip-swing into the passengers seat. The seat was warm, the sun was glorious and despite the events that had literally just transpired, I was feeling calm and collected.
+"Holy shit!" I jump up from the bench just as a man grasps at my arm. Flesh is peeling from his face. His left eye is only loosely in the socket as he stumbles over the bench. I have to swallow down the bile as he groans and thrashes towards me. His ribs are no longer connected to his skin, and for whatever reason his jaw is opening and closing in a completely horrific fashion. For a second, I wonder if my daydream turned in an apocalyptic vision. I let out a sigh and relax, it's just a dream. I let go, astounded at the reality of my imagination, until a wet goo falls onto my neck and slithers into my shirt. As the slime rolls towards the curve of my breast, it picks up speed and I see myself spitting phlegm into the sink at the hospital. My hallucination is painful, and I realize this is really happening. This fucking guy has what's left of his arms around me!
 
-“Drive me to that abandoned quarry behind the Stop n Shop,” I say as I’m wrapping my arm with my cardigan. Dan floors the gas pedal while grumbling his affirmation through clenched teeth. He’s shaken, I can see, and he’s never actually been to the quarry. He never wanted to walk down with me. Dan’s more of a bench guy. He’ll find a place to sit, and sit he will. Today is different though. 
+I throw all the force I can muster forward, pitching my assailant over my head. I wonder where I learned that move before I loose my balance. Comically, I fall backwards into the shrubbery. His aggression is obvious, this guy gets up snarls and comes towards me again. The courtyard between the apartment blocks spins around me, but I manage to put ten paces between myself and the crazy that's attacking me. He's slow winded. My ten paces become twenty, and I have a moment to study him. He's grey and broken wearing a leather vest with fringe remainder. It's the cowboy from the bar, barely recognizable, but it's him. 
 
-The quarry is a secret swimming hole I found while following a creek. Behind the Stop n Shop is a parking lot and a couple of picnic tables. I was sitting there once, likely the only person who had ever done so, noticing the surroundings. There’s a small grassy area and a side street behind the parking lot, and even from where I was sitting, I saw a small path leading down under the low bridge. I hadn’t even noticed that the car or two that came by every five minutes, heading towards the main road, were crossing a bridge. It was such an irrelevant piece of the landscape, built over a shallow dip and masked by trees and shrubbery. Tucked behind the greenery was a fence and some sort of power station, visible enough but unattractive for any visitor not wearing a city uniform and forced to look at the meters. My guess is that someone came to check this equipment about once every two to three years. 
+A door slams open and I can hear Dan bitching about the weight of the jukebox. I don't take my eyes off the cowboy, who is continuing to advance on me with his mouth open and a vacant look in his eyes. I study his balance. He's moving on autopilot. There's no grace in his movements at all, like he's been programmed to move. I glance at Dan, who has apparently not yet noticed the situation I'm in. I stand there as the cowboy closes distance. When he's two feet from me, he awkwardly lurches, and I drop kick him. I hear his ribs crack. He loses his balance, and squirms on the ground for a moment before figuring out how to stand up again. His expression doesn't change for a second, it's empty. Just empty.
 
-I stood up, threw the remainder of my watered down iced coffee into the bin and headed across the street towards the path. For a moment my heart raced as I briefly considered that I was about to trespass, then I shamed myself for it and confidently walked down into the trees. I skirted the power station’s perimeter with the fence on my left, following the path down a steep hill and onto some railroad tracks. I followed the tracks for only a couple of minutes before I was forced to cross a creek, at which point I decided to leave the tracks and follow the creek instead. 
+I sprint over to Dan, "Let's get out of here!" The cowboy is up again and wobbling towards us, drool falling from his mouth and strewing pieces of flesh across the courtyard. Tendons dangle from the bones in his chest.
 
-When I was little I did exactly the same thing. Always wondering where the water would come out. As a seven year old I followed the neighbor’s miniature creek through their back yard to a place I called “The Colored Rocks”. Three giant, strangely painted boulders at the edge of the property captured my fascination as a child to the point that I organized expeditions with the other neighborhood kids to the vast unknown. Around eleven I walked for hours and hours down a stream, under roadways and past where an eleven year old should be. I emerged from the creek near a strip mall and had to call my mom to come pick me up. It had taken me the entire day to get to where I was. When my mom came, I was only a few miles from home, and she just smiled and asked me about my adventures. 
+"What the fuck is *that* guy on!?" Not fully grasping the seriousness of the situation, Dan is laughing. I grab half the jukebox, and scream at Dan to move his ass. The cowboy is closer, and Dan finally registers the walking corpse before him. "Oh fuck. Oh fuck. Oh fuck! Oh fuck! Oh FUCK!" The cowboy grabs Dan's wrist and the jukebox falls face down on the pavement. We hear the glass shatter. I push the cowboy away from Dan and punch him a few times in the face. His bones crackle with each hit, but his strength doesn't wane. I run away from Dan and the cowboy chases me for a few moments. Then, almost in slow motion, the cowboy turns around and heads back towards Dan who is struggling to flip the jukebox into a standing position.
+
+"Leave it!" I'm screaming.
+
+"Fuck you man, I just bought that fucker!" The cowboy falls into Dan who immediately throws him off. The cowboy stumbles backwards, loses his footing and slams head first into the broken birdbath. The jagged edge scalps him, and a piece of his skull flies through the air landing at my feet.
+
+"Oh fuck." Dan inches towards the man with a look of pure terror on his face. "Not again..." Dan looks at me and says, "You know, the last time I threw a crazyfuck into a broken birdbath, I was tied up in court for a week!" I can't help but laugh. Dan doesn't even seem concerned, but I know he is. We go to inspect the body, I pull out my cell phone to call emergency services. Looking down at the corpse, I think that I should be calling research scientists and a team from the CDC and then I remember the IRC conversation from Harron. 
+
+"Dan?"
+
+"What?"
+
+"Did you just see his mouth move?" The cowboy sits straight up, grabs my arm and chomps down hard. As I scream, Dan smacks him in the head with a shovel. Parts of his brain fly into my face, and Dan nails him again. Dan pulls me up and wraps his arms around me.
+
+"I'm sorry, I'm sorry." He's barely functioning, I can see his worldview collapsing around him. He's crying and muttering and hugging me too hard. 
+
+"Too hard," I gasp. He releases me and looks me in the eye. 
+
+Without speaking a word, he asks, "What do we do now?" I walk back over to the jukebox. 
+
+"Well, let's get this fucking thing in the car."
+
+---
+I suffer from a hereditary disease called Onychomycosis. It's a non life-threatening nail fungus that about 10% of the adult population in western civilization have. The nails turn a little yellow, they're brittle, they look kind of funny. I have it on my toenails, so you would never know about it. I don't have a particularly severe case, so people never notice. Not my friends, not my lovers. It's not on my hands, only my feet. For the longest time, I only had it on two toes - one on each foot. It was always the second toe, next to my big toe. It took about ten years to spread ever so slightly to other toes. It only recently began to be visible on those toes. 
+
+Did you know you need your big toes for balance? Did you know that if you were to lose one of them you wouldn't be able to walk anymore? I mean, you'd be able to walk, but your equilibrium would be completely thrown. You would zigzag back and forth. You'd stumble a lot. You would have a hard time doing yoga.
+
+There is antibiotic and injection treatments for this nail fungus, but it's extremely taxing on the body. It can take up to a year and a half of regular treatments to get rid of it, and it's expensive.
+
+I like having this fungus. About once a month I get great joy out of cleaning the fungus out from other my nails. I take a nice long bath. I read something interesting, and I soak all my parts. When I can't sit there anymore, I climb out and wrap myself in a big fluffy towel. I fish under the bathroom sink for the small pointed wooden stick I fashioned specifically for this purpose, and I sit on the edge of the bed cleaning the packed, flakey fungus from beneath my toe nails. 
+
+My left foot always has more of the yellow paste sticking to the underside of my toenails. I always break the left side nails a little more than the right side. The left big toe has long black hairs. The right side doesn't. Similarly, the nipple on my left breast has long black hairs, which I trim regularly. The left breast is a little bigger, and the hairs are longer, darker. All in all, I would say that the left side of my body is the monster side. It's the side that requires lots of upkeep. It's the side that I keep finding anomalies on. It's the side that will develop the cancer.
+
+And now it's the side that has been bitten.
+
+"So what are we going to do with the body?" Dan is looking at me like I'm nuts. We just spent twenty minutes trying to figure out how to get both the cowboy and the jukebox in the trunk. Or rather, I spent twenty minutes trying to get them both in the trunk while Dan just asked over and over again "What are you doing?" I eventually figured it out with some creative limb positioning and a degree of incline to the jukebox. I ignored the severed finger as I squished the trunk closed and did a skip-swing into the passengers seat. The seat was warm, the sun was glorious and despite the events that had literally just transpired, I was feeling calm and collected.
+
+"Drive me to that abandoned quarry behind the Stop n Shop," I say as I'm wrapping my arm with my cardigan. Dan floors the gas pedal while grumbling his affirmation through clenched teeth. He's shaken, I can see, and he's never actually been to the quarry. He never wanted to walk down with me. Dan's more of a bench guy. He'll find a place to sit, and sit he will. Today is different though. 
+
+The quarry is a secret swimming hole I found while following a creek. Behind the Stop n Shop is a parking lot and a couple of picnic tables. I was sitting there once, likely the only person who had ever done so, noticing the surroundings. There's a small grassy area and a side street behind the parking lot, and even from where I was sitting, I saw a small path leading down under the low bridge. I hadn't even noticed that the car or two that came by every five minutes, heading towards the main road, were crossing a bridge. It was such an irrelevant piece of the landscape, built over a shallow dip and masked by trees and shrubbery. Tucked behind the greenery was a fence and some sort of power station, visible enough but unattractive for any visitor not wearing a city uniform and forced to look at the meters. My guess is that someone came to check this equipment about once every two to three years. 
+
+I stood up, threw the remainder of my watered down iced coffee into the bin and headed across the street towards the path. For a moment my heart raced as I briefly considered that I was about to trespass, then I shamed myself for it and confidently walked down into the trees. I skirted the power station's perimeter with the fence on my left, following the path down a steep hill and onto some railroad tracks. I followed the tracks for only a couple of minutes before I was forced to cross a creek, at which point I decided to leave the tracks and follow the creek instead. 
+
+When I was little I did exactly the same thing. Always wondering where the water would come out. As a seven year old I followed the neighbor's miniature creek through their back yard to a place I called "The Colored Rocks". Three giant, strangely painted boulders at the edge of the property captured my fascination as a child to the point that I organized expeditions with the other neighborhood kids to the vast unknown. Around eleven I walked for hours and hours down a stream, under roadways and past where an eleven year old should be. I emerged from the creek near a strip mall and had to call my mom to come pick me up. It had taken me the entire day to get to where I was. When my mom came, I was only a few miles from home, and she just smiled and asked me about my adventures. 
 
 Following this creek had led me through a small wood and deposited me into a field. Across the field was a concrete structure, some sort of terminus that no train had ever used. As I neared, I saw the structure was covered in graffiti and filled with trash. Nothing looked especially recent, but it was obvious that people had had their fun there. As I rounded the corner I could see why; spread in front of me was an adorable quarry filled with clear blue water that glittered in the sun. A diving board had been installed, there was a small fire pit. It was exactly the sort of place you imagine spending your youth in. It was reminiscent of Stand By Me but without the dead body. 
 
-At least, there wasn’t a dead body there the first time I found it. 
+At least, there wasn't a dead body there the first time I found it. 
 
-Dan gives me a look of hate when I tell him that he’s going to help me get rid of the body. It’s broad daylight, so I have him park right next to the path. I deftly tip up the jukebox pull the body out of the car. He comes more easily than I expect, and I use my stumble to push him into the bushes. I kick his feet out of sight.
+Dan gives me a look of hate when I tell him that he's going to help me get rid of the body. It's broad daylight, so I have him park right next to the path. I deftly tip up the jukebox pull the body out of the car. He comes more easily than I expect, and I use my stumble to push him into the bushes. I kick his feet out of sight.
 
-“Park the car and come on.” I have no intention of leaving the body out in the open in my perfect sanctuary, but there was a shed at the quarry that would allow us to store the thing and come back to it. I’d been to this clearing a million times, and I’d not once seen another person once I’d gotten to the power station fence. I’d set up observational booby traps to see if anyone ever came down here, and I’d never caught anyone, so I’m pretty sure it’s all mine. 
+"Park the car and come on." I have no intention of leaving the body out in the open in my perfect sanctuary, but there was a shed at the quarry that would allow us to store the thing and come back to it. I'd been to this clearing a million times, and I'd not once seen another person once I'd gotten to the power station fence. I'd set up observational booby traps to see if anyone ever came down here, and I'd never caught anyone, so I'm pretty sure it's all mine. 
 
-Dan and I quickly carry the body down the tracks to the creek. I’m holding the cowboy’s legs under my arms and facing forward and Dan keeps running his knees into the oozing skull. I don’t know why I’m insisting that we store the body, only that I have the feeling I’ll be happy that we did. Chances are we leave it forever or that it decomposes the way bodies are supposed to.
+Dan and I quickly carry the body down the tracks to the creek. I'm holding the cowboy's legs under my arms and facing forward and Dan keeps running his knees into the oozing skull. I don't know why I'm insisting that we store the body, only that I have the feeling I'll be happy that we did. Chances are we leave it forever or that it decomposes the way bodies are supposed to.
 
-The shed hasn’t been opened since the last time I stored something in it. It is the size of a trailer home’s bedroom. Maybe six by six feet or four by four meters or several raccoon skins by several raccoon skins. I never measured it. It’s just enough space for a couple of wooden shelves lining the walls, slanted from the leaky roof and filled with unusable junk – a jar of rusty bolts, broken glasses, a wet bible, a few rusty door hinges, an old cigar box, barely legible ant poison, a plastic spray bottle with an unidentifiable liquid and a hastily drawn skull and crossbones on it. Leaning against the wall is one of those old rotary lawnmowers rusted through, two wine crates, a spade and a mini pitchfork. The floor features a bunch of leaves and spiderwebs cover the walls from roof to floor. Everything smells a little musty, and everything that isn’t flaking rust, is flaking the white fungus wood gets after it has sat in the rain for a few years.
+The shed hasn't been opened since the last time I stored something in it. It is the size of a trailer home's bedroom. Maybe six by six feet or four by four meters or several raccoon skins by several raccoon skins. I never measured it. It's just enough space for a couple of wooden shelves lining the walls, slanted from the leaky roof and filled with unusable junk – a jar of rusty bolts, broken glasses, a wet bible, a few rusty door hinges, an old cigar box, barely legible ant poison, a plastic spray bottle with an unidentifiable liquid and a hastily drawn skull and crossbones on it. Leaning against the wall is one of those old rotary lawnmowers rusted through, two wine crates, a spade and a mini pitchfork. The floor features a bunch of leaves and spiderwebs cover the walls from roof to floor. Everything smells a little musty, and everything that isn't flaking rust, is flaking the white fungus wood gets after it has sat in the rain for a few years.
 
-Last time I’d been here, I felt the need to hide my old passport, which hadn’t been invalidated when I got the new one. They *forgot* to punch a hole in it and sent it back to me, still valid. It was a little tattered sure, but I could still use it if there ever came a time when acquiring my new passport was difficult. Of course, if I’m having a difficult time picking up something from my apartment I’m probably already on a do not fly list somewhere. 
+Last time I'd been here, I felt the need to hide my old passport, which hadn't been invalidated when I got the new one. They *forgot* to punch a hole in it and sent it back to me, still valid. It was a little tattered sure, but I could still use it if there ever came a time when acquiring my new passport was difficult. Of course, if I'm having a difficult time picking up something from my apartment I'm probably already on a do not fly list somewhere. 
 
-I situate a crate in the corner of the shed while Dan finishes dragging the cowboy in. Together, we sit him on the crate and slump his body into the corner. Behind the cigar box holding my old passport, there’s a pair of broken sunglasses. I take them, dust them off and put them on the cowboy to hide his open, seeping eyeball. 
+I situate a crate in the corner of the shed while Dan finishes dragging the cowboy in. Together, we sit him on the crate and slump his body into the corner. Behind the cigar box holding my old passport, there's a pair of broken sunglasses. I take them, dust them off and put them on the cowboy to hide his open, seeping eyeball. 
 
-“Ok,” I say. “Let’s get out of here.” We’re halfway across the field when I decide I should have grabbed the passport, and I run back for it. Even having just discarded him there, the cowboy startles me when I open the door. I open the cigar box, put the passport in my back pocket and look around one last time. Seeing a dusty spool of thread reminds me that my arm is oozing.
+"Ok," I say. "Let's get out of here." We're halfway across the field when I decide I should have grabbed the passport, and I run back for it. Even having just discarded him there, the cowboy startles me when I open the door. I open the cigar box, put the passport in my back pocket and look around one last time. Seeing a dusty spool of thread reminds me that my arm is oozing.
 
-I have the feeling I won’t be coming to the quarry again.
+I have the feeling I won't be coming to the quarry again.
 

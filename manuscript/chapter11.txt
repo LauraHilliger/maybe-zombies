@@ -28,7 +28,7 @@ I decide I have another hour in me and inform Dan that we'll be staying in Junct
 
 "Don't care. Polyester comforters and cockroaches aren't my thing. I'm not staying at a shitty motel off the interstate."
 
-"Motel 6 is a nationwide chain. I'm sure they have standards, Maggie."
+"Motel 6 is a nationwide chain. I'm sure they have standards, Mags."
 
 "Yeah, standards for crackheads. You refused Topeka, I refuse Motel 6. Deal with it."
 
@@ -42,7 +42,7 @@ For the last two weeks, Eric and I have traded phone calls, texts or in person j
 
 Just as I'm convincing myself that it's ok to experience emotions, my phone beeps to indicate a new text. For a split second, I feel relief until I remember that I turned off Eric's notification buzz on the second day of our continuous interaction. He was constantly causing my phone to beep, so I got into the habit of checking for him on a near constant basis. I sigh, still hoping somehow it's a text from him and grab my phone. It tells me I have a new encrypted message.
 
-*Quietly, without any sort of to-do, the news reports and press releases stopped mentioning you. I thought it was odd that none of the channels I'm scanning mentioned you for the past couple of days, so I hacked into the police DB. It would seem you're either no longer a person of interest or you're so interesting that the cops have given you a new designation. It's as if your warrant never existed.*
+*Quietly, without any sort of to-do, the news reports and press releases stopped mentioning you.  I thought it was odd that none of the channels I'm scanning mentioned you for the past couple of days, so I hacked into the police DB. It would seem you're either no longer a person of interest or you're so interesting that the cops have given you a new designation. It's as if your warrant never existed.*
 
 Oscar is writing me on our Onyx IRC. My guess is that he's paranoid and doesn't trust a cell phone. 
 
@@ -58,7 +58,7 @@ I can't remember if Oscar knows anything about me and Eric, but figure that if E
 
 *Uh, don't you like text him constantly? Jacob sent June and Eric somewhere. I saw them leave.*
 
-Ok. So June and Eric are together. My jealously spikes again, and I tell myself repeatedly that no one in their right mind would fall for June. Certainly not Eric. Then why hasn't he contacted me all day? If Jacob sent them together somewhere, it had to be for a client. But the only project Jute's been concerned with lately is InterVision. It stands to reason that June briefed Jacob on her plan, dragged Eric into it somehow, and Jacob sent them both to deal with something. The question is where did they go?
+Ok. So June and Eric are together. He didn't say anything about it. My jealously spikes again, and I tell myself repeatedly that no one in their right mind would fall for June. Certainly not Eric. Then why hasn't he contacted me all day? If Jacob sent them together somewhere, it had to be for a client. But the only project Jute's been concerned with lately is InterVision. It stands to reason that June briefed Jacob on her plan, dragged Eric into it somehow, and Jacob sent them both to deal with something. The question is where did they go?
 
 *Sent them where?*
 
@@ -121,7 +121,6 @@ He and June are probably inside the belly of the beast at InterVision and he can
 I decide that my rationale is the most likely culprit for Eric's disappearance from my phone. I let the anger and the worry subside with this explanation and try to put Eric out of my mind for a while. I take a quick shower without getting my hair wet and dress. Then I go downstairs to meet Dan.
 
 ---
-
 I'm not drunk, but I have the beautiful foggy feeling of Sunday morning mimosas. Dan is driving. He had three mimosas, I had six. We didn't manage to leave until nearly noon. The breakfast place we went to had a Hawaiian theme. Alongside the Hawaiian shirts of the waitstaff, flowers drawn on the menu and a wooden surf board hanging on the wall, the only other Hawaiian thing about it was the inclusion of pineapple in nearly every dish. The tables were recycled teak, remnants of blues and yellows covered the tabletops. The chairs matched the blues and yellows in a spectacular way, each plastic backing a slightly different color, but close enough to one another that the visual disruption was kept to a minimum. The overall decor was friendly as was our server.
 
 The place was built for pancakes, but also had seven different kinds of eggs Benedict. I, staying true to my values, ordered eggs Florentine and mentally compared them with the eggs Florentine Eric made me last week. Dan, staying true to his gluttony, ordered a three egg omelet called the "Kitchen Sink", which had everything the kitchen could put into a three egg omelet except for the kitchen sink. It had four kinds of cheese, mushrooms, tomatoes, chorizo, bacon, ham, onions, olives and so on. Dan also ordered a side of bacon and a six stack of pancakes, with pineapple, banana, strawberries and whipped cream. 
@@ -174,7 +173,7 @@ I start laughing and give her a high five. Dan playfully sulks and then tells he
 
 "Not if you read a list on the internet, I don't. Those lists don't know shit. Have a nice time."
 
-Dan smiles widely and we turn to head toward the kiosk to collect our night vision goggles. The goggles are, in fact, corrugated. The casing around the glass lenses has gentle waves and swoops designed for quick and easy use. My finger tips slide easily around the goggles, making it quite simple to put them on, take them off and push the mode button to switch between heat seaking, infrared and the typical night vision green. The technology seems advanced, and I'm curious as to how a city zoo received funding for these kinds of goggles. I ask Dan the same and a man behind us answers. 
+Dan smiles widely and we turn to head toward the kiosk to collect our night vision goggles. The goggles are, in fact, corrugated. The casing around the glass lenses has gentle waves and swoops designed for quick and easy use. My finger tips slide easily around the goggles, making it quite simple to put them on, take them off and push the mode button to switch between heat seeking, infrared and the typical night vision green. The technology seems advanced, and I'm curious as to how a city zoo received funding for these kinds of goggles. I ask Dan the same and a man behind us answers. 
 
 "They were a gift from a company called InterVision."
 
@@ -194,9 +193,9 @@ Dan smiles widely and we turn to head toward the kiosk to collect our night visi
 
 "I've been donating to the zoo for forty years. They send me annual reports and crap. I remembered reading about the technology partner thing a year or so ago. Struck me as cliche at the time. All the non-profits are making partnerships with tech firms nowadays."
 
-"Yeah," I say, "They're trying to bring digital into real spaces all over the place."
+"Yeah," I say, "They're trying to bring digital into real spaces all over the place. Because surely augmented and virtual realities are much easier to understand than actual reality."
 
-A woman approaches the man, "Ready, dear?"
+The man laughs as a woman approaches him, "Ready, dear?"
 
 "Ready. Nice talking to you folks. Have fun and turn on the heat seeking mode near the sugar gliders. They mate at night." The man and the woman walk away towards the Feline section. 
 
@@ -204,7 +203,7 @@ A woman approaches the man, "Ready, dear?"
 
 "Hold on. Are we really ok with sending our eye data to InterVision? I mean, what if they have some sort of technology that can be used to identify us in these things?" I'm worried about my no-longer-a-person-of-interest status. I'm worried about the relationship between InterVision and the government. I have no idea how deep the relationship is, if there even is one.
 
-"I promise you, Maggie, there is no way in hell that InterVision gives a shit about identity in this data collection. They're collecting eye movement information associated with emotional response." Dan looks at me seriously. "Those augmented reality contacts they're making aren't ready yet. You know about the spatial issues they have, right?"
+"I promise you, Mags, there is no way in hell that InterVision gives a shit about identity in this data collection. They're collecting eye movement information associated with emotional response." Dan looks at me seriously. "Those augmented reality contacts they're making aren't ready yet. You know about the spatial issues they have, right?"
 
 "Kind of..." I answer uncertain at how Dan knows anything about the InterVision file. 
 
@@ -216,7 +215,7 @@ A woman approaches the man, "Ready, dear?"
 
 "And how does that have anything to do with eye movement and the emotional response?" I'm suddenly concerned about the seriousness with which Dan is addressing this subject. It's rare that I hear him speak so factually about anything, let alone the complicated neural networks in the human brain. We continue walking slowly towards the first champagne stop, barely moving actually, as Dan stops completely every few seconds to explain.
 
-"They can measure how long it takes a person to feel fear or excitement or boredom based on how quickly the pupil dilates in response to a particular stimulation. Based on this measurement, taken millions of times, they can find an average length of neural pathway between the visual cortex and the prefrontal cortex. Then, with some more data and shit, they can measure the distance between other regions of the brain based on the average distance. I guess."
+"They can measure how long it takes a person to feel fear or excitement or boredom based on how quickly the pupil dilates in response to a particular stimulation. Based on this measurement, taken millions of times, they can find an average length of neural pathway between the visual cortex and the prefrontal cortex. Then, with some more data and shit, they can measure the distance between other regions of the brain based on averages. You know, they do some math. I guess."
 
 "You guess?" I ask, sincerely, as I'm amazed by the depth of understanding Dan seems to have about not only the InterVision project, but the human brain generally. 
 
@@ -224,7 +223,7 @@ A woman approaches the man, "Ready, dear?"
 
 "Ok. You've lost me. I don't know what you're talking about anymore."
 
-"Maggie. I'm talking about fucking mind control. InterVision is developing their 'augmented reality contacts' for mind control. And it would appear that they're already in the process of selling the tech to the US military. The goggles here," he taps his face, "and the data their collecting is just due diligence. Chances are they already have enough data to finish the algorithm," Dan pauses for a moment. "But it's not done yet. They need better nerds."
+"Maggie. I'm talking about fucking mind control. InterVision is developing their 'augmented reality contacts' for mind control. Like the motherfucking Twilight Zone style, all out, psycho humanoid mind control. And it would appear that they're already in the process of selling the tech to the US military. The goggles here," he taps his face, "and the data their collecting is just due diligence. Chances are  they already have enough data to finish the algorithm," Dan pauses for a moment. "But it's not done yet. They need better nerds."
 
 We're silent for a few minutes as we slowly walk up to the first champagne stop. Dan takes two glasses and hands me one of them. Then he takes another. He downs the first and gives the glass back to a surprised looking bartender. We turn slowly to the left, pausing to look through our goggles at the cheetah sleeping inside a log. 
 
@@ -276,8 +275,8 @@ Dan laughs. "Well I slept with June right before we left, so she told me some st
 
 We're finally approaching Bird World and see another kiosk with booze. I finish the rest of my glass and accept the next one Dan hands me. We switch our goggles to the regular night mode in preparation for our arrival at the flamingo enclosure. Watching the birds and listening to Dan talk about how different their knees look depending on the goggle mode, I can't help but wonder what else Dan has studied randomly for a few hours and become a bonafide expert on.
 
----
 
+---
 *Please come to the McGrath Family Amphitheater immediately. We'd like to thank our donors with a special performance.*
 
 Dan and I have spent the last hour and a half wandering around the zoo, collecting champagne at every champagne stop. We switched modes on the goggles and looked at all the animals. After some more considerations about the InterVision project, Dan got tired of talking about it and started making up extensive histories for certain animals. When I asked him why he didn't want to talk about InterVision anymore he said "Well, I figure when we get to California we're probably going to end up having to go there."
@@ -294,7 +293,7 @@ Dan's perception floors me. I hadn't talked to him about any of the things I was
 
 "That's so weird."
 
-We pause to look at the camels before we walk across the lawn to the Amphitheater. There's a row of champagne kiosks on each side and the area is brimming with people. Everyone has their corrugated night vision goggles perched atop their heads. Floating lanterns glimmer on a u-shaped lake behind the pavilion. Most of the people are wearing evening gowns and suits. Dan and I spot the man and woman from earlier surrounded by fifteen people and gesturing pervertedly. The atmosphere of the crowd is jovial. 
+We pause to look at the camels before we walk across the lawn to the Amphitheater. There's a row of champagne kiosks on each side and the area is brimming with people. Everyone has their corrugated night vision goggles perched atop their heads. Floating lanterns glimmer on a u-shaped lake behind the pavilion.  Most of the people are wearing evening gowns and suits. Dan and I spot the man and woman from earlier surrounded by fifteen people and gesturing pervertedly. The atmosphere of the crowd is jovial. 
 
 *Please take your seats. After our short performance, we invite you to resume socializing with hors d'oeuvres and champagne.* The announcement bellows over us, but the voice is sweet and quaint.
 
