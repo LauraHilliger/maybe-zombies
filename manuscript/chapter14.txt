@@ -1,13 +1,21 @@
-
 #Chapter 14
 
-I hear an obscene amount of rattling and banging coming from the kitchen. Slowly it becomes clear to me that I've been woken up by some insensitive bastard who isn't bothering to even try to be quiet despite the fact that I'm still sleeping. My body fills with rage. Then the banging stops for a moment, and I relax back down into my pillow. I drift a bit. It can't be more than a few minutes before the rattling and banging starts again. I look at my phone.
+
+I hear an obscene amount of rattling and banging coming from the kitchen. Slowly it becomes clear to me that I've been woken up by some insensitive bastard who isn't even trying to be quiet despite the fact that I'm still sleeping. My body fills with rage. Then the banging stops for a moment, and I relax back down into my pillow. I drift a bit. It can't be more than a few minutes before the rattling and banging starts again. I look at my phone.
 
 "Oh," I say aloud after realizing it's past noon. I no longer feel the right to be angry at whomever is making noise in the kitchen. We hadn't stayed up all that late. I'd been sleeping for a good twelve hours. I pull on some clothes and head into the kitchen yawning and rubbing my eyes.
 
 "Hey."
 
 "Heeeyyyyy! I know I probably woke you up just now. I was fighting with this 5 Super Max juicer thing."
+
+"What is that?"
+
+"It's the best juicer in the world. It cost like 700 bucks and you can't store it anywhere. My mom bought a juicer at the thrift store for six dollars. It makes better fucking juice."
+
+"So what are you..."
+
+"Oh I'm getting my money back. This is bullshit."
 
 "Where's Dan?" I ask Niela.
 
@@ -53,13 +61,13 @@ I wrap my hair in a towel and put on the bathrobe hanging on the back of the doo
 
 As the heat from the bath starts to leave my body, I start thinking about Eric and June. The way I figure it, we had a day of relaxation. It's time to get back to work. I text Oscar.
 
-*Ok, we're settled, what kind of recon have you done on InterVision?* I ask him. Within moments I get an answer.
+*Ok, we're settled, what kind of recon have you done on Intervision?* I ask him. Within moments I get an answer.
 
 *Phase One satellite recon complete* I'm happy to hear that Oscar has been working without instruction or explicit direction. 
 
 *Let's call Phase One complete, we don't have time or troops for on-location LASSO*
 
-*10-4, Jacob said the same. Phase documents can be accessed here https://bit.ly/2MdKq1s * The mention of Jacob surprises me. I hadn't been thought about the fact that Jacob would be involved, but of course he is. He must be wondering what happened to June and Eric too. I'm not surprised that our directives match, it was relatively rare that Onyx coworkers disagreed with each other. When it happened, it was usually because one person had more context than another. 
+*10-4, Jacob said the same. Phase documents can be accessed here https://bit.ly/2MdKq1s * The mention of Jacob surprises me. I hadn't thought about the fact that Jacob would be involved, but of course he is. He must be wondering what happened to June and Eric too. I'm not surprised that our directives match, it is relatively rare that Onyx coworkers disagree with each other. When it happened, it was usually because one person had more context than another. 
 
 *You're on Mission HQ?*
 
@@ -67,11 +75,11 @@ As the heat from the bath starts to leave my body, I start thinking about Eric a
 
 *Thanks, we'll reform soon*
 
-I close the secure chat with Oscar and open one to Jacob. "Knitwear", I can't decide if it's an ode to Eric's sweater vests or to Junes overspending on clothing to work the InterVision job.
+I close the secure chat with Oscar and open one to Jacob. "Knitwear", I can't decide if it's an ode to Eric's sweater vests or to Junes overspending on clothing to work the Intervision job.
 
 *On site team prepping Knitwear, request to take command.*
 
-*Well, hello there Disease. Was wondering when I'd hear from you. All's good?* I'm taken by surprise that Jacob answers immediately. I must have caught him with his Onyx phone in his hand, a feat I didn't realize was possible. Jacob stands in the light as the enigmatic genius with Onyx at his back. He isn't often responsive within hours, let alone moments. My gut tells me the disappearance of Eric and June have inspired Jacob to digest the whole of the InterVision file, which means he's up to speed.
+*Well, hello there Disease. Was wondering when I'd hear from you. All's good?* I'm taken by surprise that Jacob answers immediately. I must have caught him with his Onyx phone in his hand, a feat I didn't realize was possible. Jacob stands in the light as the enigmatic genius with Onyx at his back. He isn't often responsive within hours, let alone moments. My gut tells me the disappearance of Eric and June have inspired Jacob to digest the whole of the Intervision file, which means he's up to speed.
 
 *Yeah? Did I get a new codename?*
 
@@ -83,7 +91,7 @@ I close the secure chat with Oscar and open one to Jacob. "Knitwear", I can't de
 
 *You got it.*
 
-*Hey, Disease, be careful out there, this one looks twisted. Mission HQ has your back.* My new codename sounds like a pet name in the moment. It's nice to know he's orchestrated internal support for us, and I feel elated to know that it means we can pretty much do whatever we want. Unless we plan a horribly stupid operation, Jacob's involvement from here on out will be read-only. I wonder if I'll talk to Jacob again before we infiltrate InterVision.
+*Hey, Disease, be careful out there, this one looks twisted. Mission HQ has your back.* My new codename sounds like a pet name in the moment. It's nice to know he's orchestrated internal support for us, and I feel elated to know that it means we can pretty much do whatever we want. Unless we plan a horribly stupid operation, Jacob's involvement from here on out will be read-only. I wonder if I'll talk to Jacob again before we infiltrate Intervision.
 
 ---
 "Let me get this straight, Jacob's on board AND Oscar delivered a full satellite LASSO report?"
@@ -161,3 +169,170 @@ Niela bends over the map. "So basically you guys just make a bunch of guesses an
 "Let's make a plan B for exit then," I say.
 
 "Yeah, plan B is just RUN," Dan and Niela both laugh. "Also, Oscar says the fountain is on at all times, including in the darkest of night."
+
+---
+"Ok, so we're cutting the fence here. Niela, start a list for supplies."
+
+"We need weapons."
+
+"Dan, calm down, we need our plan first....so we're cutting the fence here. But let's go back, clarify objectives."
+
+We're still pouring over the maps. We've talked through all the reconnaissance Oscar sent through and are starting to develop our plan. First, we need to clarify objectives, as I just said. I set the priorities. 
+
+"Priority one is evacuation and recovery of our people," I say. "Subobjective on one should be information gathering. With Eric and June secure, we'll have first hand witness accounts, but we'll need files from Intervision's mainframe." I point to the ninth floor in buildings five and six. "We'll have to jack in here."
+
+Oscar is listening to the conversation. It's about eight in the evening for him, but he doesn't seem to mind. He's on a video conference with a beer and a notepad. He's also wearing a pair of goggles on his forehead.
+
+"What are the goggles for, Oscar?" Dan asks.
+
+"Isn't your beer empty?" Oscar responds.
+
+"Well, shit, yessir it is. Who else needs?" Dan stands up and heads to the kitchen.
+
+"What's second priority?" Oscar asks.
+
+"What's he say?" Dan calls from the kitchen. 
+
+"Second priorities," I say, "are destruction, harassment and diversion. If we're seen, diversion won't be possible unless we get really lucky. Oscar, we're going to need you to take out the cameras for most of the campus."
+
+"I'll kill them all and then spin them up one at a time once you're inside the fence. I'll kill all the security consoles to, so I'll be your only eyes."
+
+"Cool," I say, "so let's start with priority ones." 
+
+"Well first," Oscar reminds us, "KISS principle."
+
+"Yeah," Dan says, "Keep it simple stupid."
+
+For the first priorities, evacuation, recovery, and info gathering, I propose creating a distraction to keep the guards busy. We set small fires in buildings one and two, not big enough to warrant calling the fire department, but enough to garner the attention of the guards from buildings three and four. 
+
+"Molotovs," Dan says, "write that down." Niela diligently takes the note.
+
+I also propose using the water fountain and a kayak,
+
+"A kayak?" Dan asks. "What the fuck are we going to do with a kayak?"
+
+"Distraction."
+
+"Yeah, I got that, now explain how."
+
+Niela, a master kayaker, would kayak out with two kayaks. Dressed in black and careening on her black kayak, I figure she can get to the fountain pretty easily and dump five gallons of dish soap into the spurt. The second kayak, a bright red one, she'd push towards the filtration system. West of the small lake, a large underground pump pulled water into it and runs it through filters to make sure the lake never grows actual plant life. The current caused on top of the water, should be enough that if she pushed the kayak towards it, the kayak would stay in the current and drift from East to West in the dark. She'd be visible in the dim light at the middle of the fountain for a moment, but hopefully the oddity of the red kayak should take the attention away from her so that she can slip back into the shadows. Once there, she'd stay out of the campus near the exit point and wait for us.
+
+"But I want to run around inside!" Niela complains.
+
+"Sorry dude, I'm with Maggie on this one. Your redneck shooting skills don't make you raid ready."
+
+"Don't you think three is better than two on this one?"
+
+"No." Dan and I say in unison. It's not that Niela isn't fit or smart, but she hasn't had the kinds of training Dan and I and all the other Onyx employees have. It's too much of a risk to have her inside the buildings in case we get separated and have to find alternative extraction points.
+
+Dan and I will use night vision binoculars to follow Niela's progress. 
+
+"Do you think we could load a molotov into one of those t-shirt cannons and launch it into a building?" I ask.
+
+"Nah," Oscar says. "Those don't have the range or the force, but points for creativity...actually...wait." Oscar starts typing into his computer. 
+
+"What?" I ask. 
+
+"Well, maybe they do have the range, and maybe we can force the force. They shoot t-shirts into the third section of giant stadiums, right?"
+
+"I don't know, I'm not a fan of organized sports, crowds or stadium security."
+
+"Here, look at this," Oscar puts a link in the chatbox of the video conference. I click it. 
+
+"The Stormshooter, cool name."
+
+"I actually think this could work. But you need to try it out first. That thing will need to shatter reinforced glass, how are we going to accomplish that?"
+
+"Diamond encrusted ball bearings?" Niela says. We all stare at her. "What?"
+
+"Where do you come up with these ideas?" Oscar asks her.
+
+"I took a class last year where we sawed through porcelain with diamond bits. I don't know, I'm making shit up."
+
+"You aren't though," Oscar says. "Look at these," and he sends us another link. Somewhere on the dark web, Oscar has found a store selling marble sized morning stars with diamond encased spikes. The site promises "total obliteration" of bullet proof glass. A ten pack costs four hundred dollars.
+
+"Alright, I'm ordering two tens of these and I'll have one of the Stormshooters sent, it'll be there..." Oscar pauses as he waits for the shipping verification to load, "tomorrow morning by 11am. The morning stars should come by then too. You guys need to go buy two twenty pound CO2 tanks."
+
+"Niela, add the..."
+
+"Yeah, it's done already, thanks."
+
+"Did you hear that Dan?" I ask. He seems to be paying partial attention, enough to ask Niela to add something to our shopping list at least, but I don't know what else he's registered. "Tomorrow we're going to practice shooting Molotovs out of a t-shirt cannon."
+
+"Holy shit that sounds fun!" Says Niela. "But we should probably just shoot bottles with water, right? What if we start a forest fire up here?"
+
+She's got a point there. But we also need to know if the fluid leaks out when we launch the Molotovs. We'll also need to test how many morning stars it takes to shatter a bullet proof glass pane and how close we need to be. I start to wonder if this plan isn't becoming a bit too complicated. 	
+
+"Are we over doing it?"
+
+"I don't think so, I mean, there's only two and a half of us, we've got to be creative."
+
+"Ok, let's avoid the forest fire thing though," Niela says. "Let's put laundry detergent in the bottles, it's blue so easy to see."
+
+"Yeah, but it's thick, it won't have the same spray pattern as gasoline or alcohol would."
+
+"Well, how about water with food coloring?" 
+
+"I think laundry detergent is fine. If it leaks a little, we'll know the Molotovs will leak a lot. Perfection is the enemy of done," I say. "Let's build a box tomorrow morning."
+
+"A box?" asks Niela.
+
+"Yeah, we'll build a testing box with a reinforced window on the front. Set that thing three or four hundred yards away and then shoot at it with the Stormshooter plus molotov made of laundry detergent and morning stars."
+
+"You guys, I'm so excited about this I can't even remember why we're doing it," Dan laughs.
+
+"Then it sounds like we need a review," I say. "Objective one, priority one, evacuate and recover Eric and June. Objective two, priority one, gather info on the augmented contact lens algorithm and anything about the sickness Harron and the CDC are involved in..."
+
+"I thought info gathering was a sub objective," Dan interrupts.
+
+"Whatever, first our people, second information."
+
+"Ok, what else?" Niela says, taking notes.
+
+"Maggie or Dan is going to break into that room at the core of the ninth floor," Oscar explains. "All they have to do is plug me in, and I'll get the information remotely."
+
+"And how are you doing that?" Niela asks.
+
+"Once I'm plugged in, I'll do some hacker magic," Oscar says. "Oh, and I'll be sending a kit."
+
+"A kit?" Niela is the type of person who needs to understand all the ins and outs.
+
+"A kit," Dan explains, "is some electronic bits and bobs to get us into that room and get the computers on Oscars screens. So he's going to send us some gel fingerprints or an exploding stopwatch or whatever we need."
+
+"This sounds like Mission Impossible again."
+
+"Yeah, that's why you only get to drive the kayak. Maggie and I know a little too much about being sneaky and wiring and stuff like that."
+
+"Second priorities if we are stealthy enough are destruction and diversion," I say. "You can probably help there, Niela."
+
+"What's that mean?"
+
+"We destroy the computer we manage to get the information from and plant some 'evidence' that some other group is responsible for the destruction."
+
+"What other group?" Niela asks. "What do I have to do?"
+
+"We should blame it on VecoTerrain," Oscar says. 
+
+VecoTerrain is an ecoterrorist group Onyx blames things on from time to time. They also blame things on Onyx from time to time. There are a number of organizations involved in the subversive activism blame circle. It's an interesting anomaly, this blame circle. Without really knowing how it started, there are about twenty different organizations taking or giving credit to each other for a variety of illegal actions.
+
+"Niela, you can leave some stuff in the red kayak and push a button for me from a burner phone so I can concentrate on the mainframe," Oscar offers.
+
+"Yeah," says Dan, "VecoTerrain is a good pick, they like to start fires and the kayak thing sounds like one of their stupid pranks."
+
+"Isn't it wrong to blame this on another activist group?" Niela asks.
+
+"Nah, VecoTerrain is a bunch of vegan terrorist luddites that have been blaming a bunch of their dumb and ineffective actions on Onyx lately," Dan says. "Fuck em', they deserve it."
+
+"You really dislike vegans, don't you Dan?" I ask.
+
+"Only the ones who try to make me feel guilty about eating a piece of cheese."
+
+The rest of the evening we look at blueprints and study where cameras are and the movement of the security personnel. We decide that we'll go in early Saturday morning, around 1am. It gives us all of Friday to gather our supplies, test our Stormshooter, and otherwise finish preparations. 
+
+We stop chatting about the mission around 10pm and thank Oscar for staying up with us. He put together his kit as we were planning and contacted a cargo flight crew member to arrange a drop off. Before he can sleep, Oscar needs to deliver his kit to the airfield. Luckily, it's only a fifteen minute drive, so he'll be home and in bed before two am. The flight will arrive at the Oakland airport at 9:55am, and from there an intern from Niela's company will pick it up and deliver it to the Hollow. Niela has arranged that as well.
+
+The post will deliver the Stormshooter and  morning stars around 11am. The intern will arrive with the kit around 12:15pm. Niela will wait for those packages while Dan and I head to the hardware store for reinforced glass and gasoline. Then we'll hit the clothing supply store for appropriate raid clothing – black cargo pants and fitted, plain black tops.  Bolt cutters and the supplies we need to build our test box are in Niela's shed. We will each carry a 9mm with a silencer. There are five versions of this weapon in Nathan's gun safe, to which Niela knows the combination. When Dan questions why Nathan has not only five handguns but also five silencers, Niela shrugs.
+
+"Haven't you ever been to a gun sale? Buy four get one free, who can resist?"
+
+After we've packed up the LASSO papers and packaged them for burning, we pour three double shots of whisky. We drink them slowly and quietly, then we say our goodnights and go to our respective beds.
