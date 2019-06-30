@@ -69,7 +69,205 @@ I head back to the cannon and concoct the third and final test cocktail. I put t
 
 Two morning stars also shatter the glass. There's just enough foam in the fire extinguisher to douse my flames too. 
 
-We discuss briefly and then decide after she pours soap in the fountain and launches the red kayak, Niela will shoot five random windows in buildings one, two and three on the Intervision campus. She'll use ten of the morning stars in quick succession, and then pack up and head back down to the car. 
+We discuss briefly and then decide after she pours soap in the fountain and launches the red kayak, Niela will shoot five random windows in buildings one and two on the Intervision campus. She'll use ten of the morning stars in quick succession, and then pack up and head back down to the car. 
 
-We head back down the mountain. We need to go back to the hardware store and buy a few more bottles.
+We head back down the mountain. We need to go back to the hardware store and buy a few more overpriced bottles.
 
+
+---
+Back at the Hollow, we park the four wheelers and Niela jumps in her car and heads to buy the bottles. Dan and I are going to figure out Oscar's kit. Part of the mission is information recon, so we're going to have to connect wires together and break into a secure room. But neither of us had been particularly interested in opening the kit before we'd tested the t-shirt cannon. Some things are just more fun than others. 
+
+The "kit" is a cheap pleather briefcase with a combination lock on the front. The lock is broken, but the briefcase closes.  Oscar didn't care much who saw the contents of the case, he'd said, because "people are stupid and can't usually put two and two together without a calculator." Besides, he'd said, his couriers are cool.  We open the case and there's a five page printed document on top of a variety of, as Dan called them, bits and bobs.
+
+*Information Recon Access Kit*
+
+* The targets for objective one, priority one are in a basement level under the parking garage behind building 5/6. Following the ordered execution plan will ensure remote control over security mechanisms in the basement level.*
+
+*Although this is the primary objective, extraction and recovery should be paired with escape. See map 1. *
+
+I flip to the appendix for the map. The detail of the parking structure shows a basement floor containing rooms along the parameter. To the north is an access door that connects to an underground access road. 
+
+"What the fuck is this? A Prison Parking Garage?" Dan rolls his eyes. "Seriously, this is so cliche it's painful."
+
+"Cliche?" I ask, "What exactly is cliche about an entire floor that has secret prison cells and/or spa treatment rooms with no natural light?"
+
+"Maggie, this is every bad kidnapping themed action movie ever made. Combined with every bad espionage movie ever made."
+
+"Well, script writers have to get their inspiration from somewhere, now don't they?"
+
+Dan laughs. "Yeah, Freaky Mike Franzel and his little Humanoid, Mage, have definitely inspired a bad movie or two."
+
+* Upon inspection of the LASSO, it has been determined that the target for objective two, priority one is located on the ninth floor of buildings 5/6 inside a core room in the expansion bridge. Said target is protected by limited entry pathways and laser activated alarms. Security personell patrol the floor three times more than other floors, they lap in clockwise directions and do not enter either the outer or inner core. Laser patterns cover the floor in the outer core, and the inner core is protected by retina scanner and voice activation lock. *
+
+* Contained in this kit you will find: *
+
+* 0. Gloves. All components have been sterilized and anonymized. Do not remove kit components from the baggies without gloves because that would be silly and unprofessional.*
+
+Dan smiles at me, "I think I'm starting to like Oscar." 
+
+* 1. Circuit Disruption Widget for the electrical box located in the utility closet Building four, floor 3. Please see provided map 2. *
+
+"Shit," I say, "we have to get into building four..."
+
+"Which floor?" Dan asks.
+
+"Three." I flip to the appendix for the second map. "Well, the goal is not far from the garage stairs, should we try to go in the back?" 
+
+"Dunno, let's review everything and then revise the plan."
+
+The map shows an electrical box on the north wall of floor three in building four. It's about a quarter of the way around the circular building, we would need to turn right out of the garage entry. The map shows that the electrical box connects circuits to a large underground power grid located between the fourth and fifth buildings. The grid apparently powers everything in buildings four, five and six as well as the filtration system in the lake. It also seems to be the core power supply for the various security systems around the campus. The access road that the prison parking garage opens to seems to end at this underground power grid.
+
+I return to reading the kit instructions. 
+
+* 2. Splitter extension and 6 clips*
+
+* PLACEMENT: The disruption widget needs to be placed on the 34g and 37a wires (see circuit blueprint). Slice wire casings without cutting the wires and peel the wire casing back. Attach splitter extension to both wires. Extra clips are included in case the wires are too far apart to connect easily to the extension. Attach everything to the circuit disruption widget (see drawing A-1).*
+
+The drawing is in the appendix, after the map. 
+
+"Kind of looks like girl anatomy," Dan says.
+
+"Yep, it kind of does." I agree. The "cervix" is the circuit disruption device and it's attached to the splitter extension, the "uterus". The wires and clips form the Fallopian tubes. A rather accurate description, I guess.  
+
+*RESULT: Proper placement of the disruption widget will inactivate laser grid alarm system in outer core on the ninth floor. NOTE: You will still be able to see the laser grid, however crossing a laser barrier will not activate the alarms.*
+
+"Well fuck," Dan says. "How are we supposed to know if it's working? We just walk through it and if the alarms don't go off we're happy? And if they do go off we're shot in the head?"
+
+"Uh...I don't know..." I feel trepidation in my throat. "Maybe we should call Oscar?"
+
+"I'll text him." Dan pulls out his phone, and I continue reading aloud.
+
+* 3. Mini welder. Loaded.*
+
+The package labeled "3" contains a small welding machine that looks like a caulk gun. Next to it there are two hairspray sized cylinders, one labeled Oxygen and the other Acetylene. The gun has a small metal rod threaded towards the gun's cutting torch, positioned next to the nozzle. I show Dan and then close the package again. It'll be easier to carry packaged as it is, and we don't need to be leaving finger prints anyway. 
+
+* I've included both a steel rod and an aluminum rod. Normally electrical boxes are made out of aluminum, but I have the feeling this one is out of steel. Call it an instinct. The steel rod is loaded. Weld the door to the electrical box shut once disruption widget is properly placed. This will ensure that you have time to get past the laser grid.*
+
+* 4. Circuit Redirection Card for the same electrical box.*
+
+* PLACEMENT: Use duct tape to attach the circuit redirection card to the outside back of the electrical box. Redirection card should be placed invisibly to avoid removal.*
+
+I pull out the Circuit Redirection Card. It's the size of a credit card and nearly as flat too. It's green with slivers of silver circuits running though it. It looks incredibly high tech.
+
+*RESULT: Proper placement of this device will give us remote access to the entire campus closed circuit camera installation. *
+
+* 5. Hammer, plastic explosives, industrial magnets. *
+
+"A hammer?" asks Dan, "Keep reading."
+
+* Upon close inspection of the voice activation lock, a remote hack looks unlikely. Use force. Smash the casing with the hammer, place plastic explosives on the locking mechanisms, take a step back and detonate. Use the magnets to remove shards. I'm pretty sure this is going to work. *
+
+"Jesus Christ. I'm calling him."
+
+"Put him on speaker."
+
+The phone starts ringing and Oscar picks up, laughing.
+
+"I'm surprised it took you so long to call me, was the kit late?"
+
+"No, but we are just now looking into it," I say.
+
+"What the fuck is this!?" Dan rants.
+
+"I know, I know," says Oscar. "The retinal scanner will be deactivated with the circuit disruptor, but the voice activation lock is controlled via a remote power source. I think it's an external company's software."
+
+"Ok, but we won't know that the circuit disruptor worked properly in the first place, and now you've got a planting explosives," Dan whines. "And you're 'pretty sure this is going to work'?
+
+"The circuit redirection card is going to show ME if the lasers are deactivated," Oscar explains. "Do you trust me?"
+
+"No," says Dan.
+
+"Yes, we do," I say. "But what about this voice activation lock, what are the risks?" 
+
+"Well, if it doesn't work, you won't get into that room," Oscar says with a little sigh. "But don't worry, it's going to work. It's hard to fuck up explosives. If they explode, the mechanisms will be damaged."
+
+"And the magnets?" I ask.
+
+"I used Mnemonic to do a simulation. The way the lock looks, the explosives will bury the locking rods into the wall and they'll keep blocking the door. But they're shattered in the simulation. So the magnets will adjust their positioning and then you'll be able to kick the door open."
+
+"Ok, I guess we don't have much of a choice."
+
+"I'm taking two guns," Dan says.
+
+"I would advise that," Oscar responds.
+
+---
+I type up a truncated and incomplete overview of the plan and send it to Jacob. I promised him I would keep him posted, but I figure if he wants a more complete plan all he has to do is ask Oscar for it. I include this directive to him and sign the daily report "Disease". An hour later, a message comes in on the encrypted IRC.
+
+*Quick question – did you all test these strategies? The t-shirt cannon in particular seems pretty out there.*
+
+*I thought you liked schemy schemes.* I respond immediately. Who knows how long I'll have Jacob in a synchronous chat.
+
+*Oh I do, but I like it when they work. So?*
+
+*Yeah, we ran some tests. There's some risk with the circuit disruptor and the voice activation, but setting stuff on fire is not going to be an issue.*
+
+*Fine then. Love the VecoTerrain blame too, by the way. Oscar is on standby. *
+
+*You think we'll find Eric and June?*
+
+*God I hope so, Eric owes me money. I'll check in Saturday at noon.*
+
+I don't respond again. It felt like Jacob signed off on the whole thing. 
+
+A few hours later, we've cooked together and eaten a bit too much homemade Mac and cheese. Dan, Niela and I turn on the news. After the opening globe spin and production credits, the anchor begins.
+
+*Our top story tonight, the CDC confirms more cases of the mysterious illness we've been following since last week. You might recall that the illness popped up in Everitt, Virginia and Nashville, Tennessee just days ago. Now there are verifiable cases in Denver, Colorado and the surrounding areas. We go to our Denver correspondent John Ciesdak at the Rocky Mountain Center for Medical Response to Terrorism, Mass Casualties and Epidemics. John?*
+
+*Thank you Maura. I'm here at the Rocky Mountain Center for Medical Response where medical professionals are saying they've received a number of patients who have the mysterious illness the CDC issued a briefing on just this week. Included in the briefing were a number of symptoms and observations to help medical institutions across the country identify the sickness.*
+
+*John, how many patients are we talking about here?*
+
+*The Center has not released a specific number, but their exact wording was "several". We requested a comment from the CDC headquarters in Atlanta, but they have not yet made a statement.*
+
+*Ok, thanks John. We'll continue to follow this story as it develops...* Maura shuffles some papers. *What would you do if you found feces in your child's school lunch? Our next story shows just what you should do in an exclusive report. We'll be right back.* 
+
+I click off the TV. Niela and Dan look at me.
+
+"Denver." I say. 
+
+"Yeah..."
+
+"Well?"
+
+"Ok, it's weird. But still, statically speaking..."
+
+"How about we deal with the state of the world after we've dealt with the disappearance of our colleagues and maybe gotten some new information after robbing the Intervision computers of their data?" Dan proposes.
+
+"Fine, then I'm going to read another one of these weird novellas and try to get some sleep. Y'all should do the same," I stand up, grab the first book my hands find on the shelf and head to my bed without looking at the title.
+
+"She'll be ok, we just need to get through the mission," I hear Dan say to Niela. I read for a while and then turn the light off at ten. The house is quiet, but I wonder if any of us are going to be able to sleep.
+
+* I can't move. I'm tied to a chair. I'm sitting in a giant warehouse and there's nothing around me. Just an empty warehouse and gray sullen columns of stone. Factory lights dot the ceiling, and their bulbs leak a burnt yellow light. I open my mouth to yell for help, and my teeth fall out and become dust on my lap. The dust sits in a perfectly shaped pyramid. It turns from a creamy color to the same yellow as the lights and then a gust of wind rushes through the warehouse and blows the pile away. I'm screaming and crying and worried about never seeing my teeth again. *
+
+"Maggie...Maggie wake up," Dan is sitting on the edge of my bed. He looks concerned. "You've been growling and moaning and generally making the most horrible noises for like an hour. I was just going to leave you to it, you know, let your brain do what it's doing. But you just started screaming the most bone chilling scream. So please wake up."
+
+Dan's voice is soft. There's no humor or sarcasm, just a sad reflection on my mental state at the moment. 
+
+"I'm sorry," I murmur as Dan continues to stroke my head. "Didn't mean to wake you up."
+
+"Don't worry about it. But get up, let's get you some tea or something and see if we can't change the pathways of your dreams."
+
+I roll away from him, "No, just let me sleep."
+
+"Seriously, I think you've had enough of the dark processing," I feel strange hearing this from Dan. I turn back to look at him. "We need to leave soon anyway."
+
+"Dan? What's going on?"
+
+"You and me, kid. We're immune. The news. The towns match our path. Plus with the Harron thing and the Intervision thing...we're on the hook here somehow. Or at least you are."
+
+"There's nothing to be done."
+
+"Well, we do the mission. Then we reassess. Then we make a decision." Dan is in a rational state of mind. I'm a bit more emotional.
+
+"If Eric and June are dead...if we find something on Intervisions computers about this cover up..."
+
+"We don't know what we're dealing with, so we need to keep our heads. Let's do the mission. Then, if we're none the wiser, you could let me take you to Berkeley and we get some Dr. Professor Person to figure out what the deal is."
+
+"Is it time to go?"
+
+"Yeah, let's make a coffee."
+
+"I thought you said tea?"
+
+"Well, I'd vote for whisky, but I know you'll get mad at me if I'm drinking while on duty."
