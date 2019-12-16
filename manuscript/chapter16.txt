@@ -1,3 +1,4 @@
+
 #Chapter 16
 
 
@@ -108,7 +109,7 @@ Niela climbs into the black kayak. I hand her to rope to the red one and a gun.
 "Just in case."
 
 ---
-I watch the guards as Niela glides out onto the lake. I'm laying on the ground with the rifle propped up in front of me, but I'm watching through the night vision binoculars. So far they haven't seen anything. I can barely see Niela. The red kayak is trailing behind her as she paddles towards the fountain, but even it is difficult to see in the dim light coming from the buildings on the other side of the lake. It's going to be the soap that gets attention, or maybe the soap and kayak thing was a stupid idea. The way the light is falling on the lake, I'm starting the think we could have just set up the t-shirt cannon, caught things on fire and skipped the kayak espionage altogether.
+I watch the guards as Niela glides out onto the lake. I'm lying on the ground with the rifle propped up in front of me, but I'm watching through the night vision binoculars. So far they haven't seen anything. I can barely see Niela. The red kayak is trailing behind her as she paddles towards the fountain, but even it is difficult to see in the dim light coming from the buildings on the other side of the lake. It's going to be the soap that gets attention, or maybe the soap and kayak thing was a stupid idea. The way the light is falling on the lake, I'm starting the think we could have just set up the t-shirt cannon, caught things on fire and skipped the kayak espionage altogether.
 
 Time is moving slowly. I have the feeling it's been ages, but Dan still isn't back from preparing Niela's exit. It isn't going to take him more than twenty minutes. I've been alone for four minutes. I turn towards buildings five and six and observe them for a moment. We're going to have to cross the front of those buildings to get to building number four where the electrical box is. The glassy fronts reflect the surroundings. Do the guards inside look out the windows? 
 
@@ -207,7 +208,7 @@ We reach the ninth floor and the doors open.
 
 "Leave him, let's just hurry up," I say and I start sprinting around the wall of the ninth floor core. We need to reach the south side of it to enter the outer core, and then we'll need to wrap back around to get to the inner core.
 
-The laser grid looks like it's on when we reach the door into the outer core just like Oscar said it would. 
+The laser grid looks like it's on when we reach the door into the outer core just like Oscar said it would be. 
 
 "Here goes nothing," I say to Dan who is panting and staring at me with wild eyes. I step into the outer core and pause. I realize that if there is any sort of an alarm it's going to be silent and we're already completely fucked. I straighten up, try to release the tension that's built up around my shoulders and head to the right, looping back the way we came except on the other side of the wall that protects the entire core. The path isn't long, but the adrenaline has been coursing through my body for a good thirty minutes now.
 
@@ -215,7 +216,7 @@ Dan already has the hammer in his hand when we reach the voice activated inner d
 
 "I'm not aware of my own strength, I thought that was going to take a couple of hits," Dan smiles.
 
-"Yeah, you're the Hulk. Here," I had Dan a wad of plastic explosives and he jams it into the casing. I take another wad and put it on the crease in the door frame where I can just barely make out the locking mechanisms. 
+"Yeah, you're the Hulk. Here," I hand Dan a wad of plastic explosives and he jams it into the casing. I take another wad and put it on the crease in the door frame where I can just barely make out the locking mechanisms. 
 
 "Stand back!"
 
@@ -237,7 +238,7 @@ We climb back to our feet, shake the ringing out of our heads and I start pullin
 
 "Hulk kick!" Dan says as he moves as far to the wall as he can. With a run, he flies towards the door and kicks it as hard as he can. "Owowowowow!" He screams as he bounces off the door. "I fucking knew this wasn't going to work!"
 
-"Ok, but it has too, so let's just use the magnets a bit more."
+"Ok, but it has to, so let's just use the magnets a bit more."
 
 We run the magnets in opposite directions and listen as the shards move. Dan bangs his into the spot where the voice activation speaker had been, and we hear a slightly louder 'thump' in the wall.
 
@@ -251,7 +252,7 @@ I sigh and turn around, walking towards the wall. I take two deep breaths and ru
 
 "Team effort, come on."
 
-We move into the inner core and are met with stacks of servers. Three hallways of black servers. There are about twenty five servers per cooling rack, each with its own row of flashy lights. Each rack releasing its own irritated sighs of processing. The room is hot, really hot, and I wonder if the air conditioning is dysfunctional. 
+We move into the inner core and are met with stacks of servers. Three hallways of black servers. There are about twenty five servers per cooling rack, each with its own row of flashing lights. Each rack releasing its own irritated sighs of processing. The room is hot, really hot, and I wonder if the air conditioning is dysfunctional. 
 
 "It's just a server farm," Dan says, "I thought it was going to be something more interesting."
 
@@ -351,11 +352,11 @@ We leave the inner core and wrap back around to the elevator on the main part of
 
 "I didn't even press the button," Dan says to the camera. "You have to wait until I press the button so we don't know you're there."
 
-I pull my gun out and take the safety off again. I motion to Dan that he should do the same, and he does. A minute goes by. I notice the lack of elevator music. 
+I pull my gun out and switch off the safety again. I motion to Dan that he should do the same, and he does. A minute goes by. I notice the lack of elevator music. 
 
 As the doors open, I'm surprised by the entryway. Though we're underground, we step out into a nearly circular room flooded with light. The walls are grey stone with elegant sconces and white LEDs. To the left and right of the elevators are open doorways leading to staircases. Across the room is a hallway, but between here and there is a grouping of sofas. Mike Franzel is sitting, facing us and talking to another man with his back to us. Mage scoots over to us.
 
-"Welcome Ms Lawson and Mr Hewes," Mage says in its slightly jilted AI voice. The voice is neither feminine nor masculine, but a strange mixture of both. A non-binary robot. "We've been expecting you. Please come and have a seat while our security personnel settles in." I look around and in seconds guards start coming down the stairs and lining the walls. "Would you like something to drink?" Mage asks us.
+"Welcome Ms Lawson and Mr Hewes," Mage says in its slightly jilted AI voice. The voice is neither feminine nor masculine, but a strange mixture of both. A non-binary robot. "We've been expecting you. Please come and have a seat while our security personnel settle in." I look around and in seconds guards start coming down the stairs and lining the walls. "Would you like something to drink?" Mage asks us.
 
 "Beer me," Dan says tightening his grip on the gun and taking a half of a step back from the robot. "How are you doing Mage?" 
 

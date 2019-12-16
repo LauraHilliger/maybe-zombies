@@ -1,3 +1,4 @@
+
 #Chapter 14
 
 
@@ -27,7 +28,7 @@ I hear an obscene amount of rattling and banging coming from the kitchen. Slowly
 
 "Ok, so by 'lunch' he means he'll be back sometime while it's still light outside."
 
-"Ha. Ok, well it's light until like 8:30pm, so I guess we've got the day to do whatever we like."
+"Ha. Ok, well it's light until like 8:30 p.m., so I guess we've got the day to do whatever we like."
 
 Niela looks pleased not to have any plans, and I don't intend to bother her with mine. First, I'm going to relax in the big, triangle shaped bathtub and read one of the novellas from Niela's collection. She has a wide variety of fan fiction to choose from, lovingly printed out in all sorts of qualities from the hardcover special edition to fan fiction printed on an inkjet and stapled together. Niela's bookshelf has them arranged by size, not theme. I start browsing the shelf looking for a book that feels nice in the hand but isn't too long. Luckily, the majority of the exemplars Niela owns are relatively short. 
 
@@ -98,7 +99,7 @@ I close the secure chat with Oscar and open one to Jacob. "Knitwear", I can't de
 
 "That's what I'm saying."
 
-"Well let's get to it then, I'll get snacks." Dan jumps up from the sofa while Niela pulls an easel with a white board in from the garage. I've got print outs of Oscars recon documents littering the coffee table.
+"Well let's get to it then, I'll get snacks." Dan jumps up from the sofa while Niela pulls an easel with a white board in from the garage. I've got printouts of Oscar's recon documents littering the coffee table.
 
 "I'm making nachos! We need brain food for this shit," Dan calls from steps away.
 
@@ -110,17 +111,17 @@ I close the secure chat with Oscar and open one to Jacob. "Knitwear", I can't de
 
 I've organized the report and attachments into their five sections. LASSO is the strategy Onyx uses to do site information reconnaissance. Usually, we do a full satellite report and then verify the findings with on-ground stealth recon missions, but for Knitwear, we just don't have the time. We have to hope that nothing much has changed in the thirty-six unverifiable hours since the satellites passed over the site. The hours are unverifiable because while Oscar can see that the pictures are no more than thirty-six hours old, he can't tell whether the images themselves are from yesterday or today. He's delivered two sets for the double S part of the strategy.
 
-The L in LASSO stands for locale, and the report includes maps of the facility and the terrain. Roads, landscape features, entrances and exits are all marked. Additionally this part of the report includes blue prints of all six of the glass encased buildings that make up the Intervision Corporate Headquarters Campus. One of the system maps calls the facility the Intervision Internment Camp, abbreviated IIC, in some sort of sick Silicon Valley joke. We can imagine the types of people who would work for such a company. 
+The L in LASSO stands for locale, and the report includes maps of the facility and the terrain. Roads, landscape features, entrances and exits are all marked. Additionally this part of the report includes blueprints of all six of the glass encased buildings that make up the Intervision Corporate Headquarters Campus. One of the system maps calls the facility the Intervision Internment Camp, abbreviated IIC, in some sort of sick Silicon Valley joke. We can imagine the types of people who would work for such a company. 
 
 There's nothing particularly spectacular about the delivered maps and blueprints. Everything appears to be like a typical tech company campus. The six glass towers have varying heights and form a partial arch around a large lake. They're circular in shape, the tallest being fifteen stories and the shortest about half the height at seven stories. 
 
-The entire northern part of the campus has a wall around it, behind the lake is a tall fence with barbed wire at the top. For our stealth mission, entrance will likely need to be through the fence, but I refrain from vocalizing decisions while detailing the locale (and the LASSO strategy) for Niela and Dan. The employee and visitor entrances to the facility are separate but together, each with a guard house. The employee entrance has three lanes for magnetic card swipe and two guards in the guard station, while the visitors entrance has only one lane with no automatic entry and four guards. I wonder what Intervision does for entry when they hold large scale events. 
+The entire northern part of the campus has a wall around it, behind the lake is a tall fence with barbed wire at the top. For our stealth mission, entrance will likely need to be through the fence, but I refrain from vocalizing decisions while detailing the locale (and the LASSO strategy) for Niela and Dan. The employee and visitor entrances to the facility are separate but located near one another, each with a guard house. The employee entrance has three lanes for magnetic card swipe and two guards in the guard station, while the visitors entrance has only one lane with no automatic entry and four guards. I wonder what Intervision does for entry when they hold large scale events. 
 
-The first building is a recreational building that has the restaurants, gyms, swimming pool and massage parlor. Also included in this building are meditation rooms and some of the company *mechanics* departments. Accounts payable, Human Resources and Marketing employees are located in this building and have the shortest walk to the Trampoline room, a feature I remind myself not to comment out loud on. I can just imagine Dan ruining the whole operation by insisting we visit that particular part of the complex before we've secure the information we're going in for or found Eric and June.
+The first building is a recreational building that has the restaurants, gyms, swimming pool and massage parlor. Also included in this building are meditation rooms and some of the company *mechanics* departments. Accounts payable, Human Resources and Marketing employees are located in this building and have the shortest walk to the Trampoline room, a feature I remind myself not to comment out loud on. I can just imagine Dan ruining the whole operation by insisting we visit that particular part of the complex before we've secured the information we're going in for or found Eric and June.
 
-Buildings two, three and four are towers of cubicles, meeting rooms and office space. Each has a cafeteria on the fourth floor for those employees that don't want to pay premium prices for the more gourmet lunch options in Building One. Each also has a gym, but no swimming pools or racket ball courts, those features are also located in Building One. All three of the towers have six elevators, four accessible in the lobbies and two service elevators located near the garage entrances. Garages are separate structures attached to the back of the glass towers. Parking is free.
+Buildings two, three and four are towers of cubicles, meeting rooms and office space. Each has a cafeteria on the fourth floor for those employees who don't want to pay premium prices for the more gourmet lunch options in Building One. Each also has a gym, but no swimming pools or racket ball courts, those features are also located in Building One. All three of the towers have six elevators, four accessible in the lobbies and two service elevators located near the garage entrances. Garages are separate structures attached to the back of the glass towers. Parking is free.
 
-The fifth and the sixth buildings are our targets. Number six has a helicopter pad on the top, but the satellite photo does not image a helicopter. I make a mental note to check for one when we're there. The blueprints show that these buildings have their towers connected on each floor through building expansions. A pedantic person would argue that these two buildings are actually just one building because the expansion floors weld the two towers together. Dan makes this argument because he is a pedantic person. 
+The fifth and the sixth buildings are our targets. Number six has a helipad on the top, but the satellite photo does not image a helicopter. I make a mental note to check for one when we're there. The blueprints show that these buildings have their towers connected on each floor through building expansions. A pedantic person would argue that these two buildings are actually just one building because the expansion floors weld the two towers together. Dan makes this argument because he is a pedantic person. 
 
 After an annoying discussion, I inform him that we will continue to refer to them as five and six. I convince him that it will help us know which part of the which building we might need to be in.
 
@@ -134,17 +135,17 @@ The blueprint shows a long room in the middle of the ninth floor, accessible by 
 
 "Do we care?" Niela shoots back.
 
-All the buildings have front and back doors, exactly 180 degrees apart. The back doors lead to attached parking garages, and the front open onto the cement courtyards that lines the manmade lake. In the middle of the lake is a fountain that sprays water straight up to about four stories tall. 
+All the buildings have front and back doors, exactly 180 degrees apart. The back doors lead to attached parking garages, and the front open onto the cement courtyard that lines the manmade lake. In the middle of the lake is a fountain that sprays water straight up to about four stories tall. 
 
-In the review of the Locale part of the report, I note two strategic questions – the first is whether or not there are any public events planned for the next days, a circumstance that would likely bring more guards and a greater inability to get in and out unnoticed. 
+In the review of the Locale part of the report, I note two strategic questions - the first is whether or not there are any public events planned for the next days, a circumstance that would likely bring more guards and a greater inability to get in and out unnoticed. 
 
 The A in LASSO stands for activity, and is an overview and monitoring of personnel. This part of the report also includes the events calendar, and I'm happy to note that there are no public events for the next eight days. The activity shows the approximate count of total security personnel to be eighty-one. A small army. 
 
 Along with the six entrance security guards, there are two external guards for each building. One security guard is stationed outside at the front of each building. There is another guard for each garage. Inside, each building has a security guard in the lobby who also functions as the lobby greeter, sitting behind a circular desk with video from the cameras in that building.  The smallest building has another three guards, the middle size building another four, the two fifteen story buildings with an extra five security personnel. Buildings five and six have thirty-eight guards together. Three per floor and two guards in the lobby of the expansion, which also has the only entrance to both towers. The garage entrance is straight through the building, so effectively buildings five and six only have two entrances or exits. 
 
-The two Ss in LASSO stand for "scouting". The first S is daytime scouting, the second for nighttime scouting, and both reports detail security positioning for a number of hours. For stealth missions we usually go in at night for the sheer fact that all corporations and governments put less security on at night. More of the security can be handled through computerized entries and exits because there's less of a chance of personnel manipulation if there are less personnel on site. Nighttime security, however, is more likely to use randomized positioning patterns, so it's a bit more risky from the hand to hand combat perspective. In Onyx's experience, however, security guards are generally not paid enough to mess with professional infiltration teams.
+The two Ss in LASSO stand for "scouting". The first S is daytime scouting, the second for nighttime scouting, and both reports detail security positioning for a number of hours. For stealth missions we usually go in at night due to the sheer fact that all corporations and governments use less security at night. More of the security can be handled through computerized entries and exits because there's less of a chance of personnel manipulation if there are fewer personnel on site. Nighttime security, however, is more likely to use randomized positioning patterns, so it's a bit riskier from the hand to hand combat perspective. In Onyx's experience, however, security guards are generally not paid enough to mess with professional infiltration teams.
 
-Every once in a while you'll meet an aggressive former military type who is happy to have anything interesting happen at their previously uneventful place of employment. These people are usually easily subdued with a quiet electroshock and or a fist to the face. They're mostly made up of hot air and dreams of glory.
+Every once in a while you'll meet an aggressive former military type who is happy to have anything interesting happen at their previously uneventful place of employment. These people are usually easily subdued with a quiet electroshock and/or a fist to the face. They're mostly made up of hot air and dreams of glory.
 
 Oscar has pulled together satellite images from various timecodes for each of the Scouting reports. The eighty-one guards summarized in the Activity section are mostly during the day. At night, there is just one guard at the gate, six guards patrolling the grounds and two guards inside buildings one through four. Buildings five and six also cut their nighttime staff more than seventy percent. Instead of thirty-eight guards, there is just one in the lobby and another five that patrol the twelve floors. These guards switch stations every hour.
 
@@ -164,7 +165,7 @@ The final report in LASSO, the O, stands for Observation posting. This bit is a 
 
 Niela bends over the map. "So basically you guys just make a bunch of guesses and then go out there and wing it?"
 
-"Well, normally we would do an on-site recon mission. We'd make a plan, and then use stealth to verify it's viability before executing on it," Dan tells her. "I'm fine with winging it though, don't have any plans coming up."
+"Well, normally we would do an on-site recon mission. We'd make a plan, and then use stealth to verify its viability before executing on it," Dan tells her. "I'm fine with winging it though, don't have any plans coming up."
 
 "Let's make a plan B for exit then," I say.
 
@@ -177,7 +178,7 @@ Niela bends over the map. "So basically you guys just make a bunch of guesses an
 
 "Dan, calm down, we need our plan first....so we're cutting the fence here. But let's go back, clarify objectives."
 
-We're still pouring over the maps. We've talked through all the reconnaissance Oscar sent through and are starting to develop our plan. First, we need to clarify objectives, as I just said. I set the priorities. 
+We're still poring over the maps. We've talked through all the reconnaissance Oscar sent through and are starting to develop our plan. First, we need to clarify objectives, as I just said. I set the priorities. 
 
 "Priority one is evacuation and recovery of our people," I say. "Subobjective on one should be information gathering. With Eric and June secure, we'll have first hand witness accounts, but we'll need files from Intervision's mainframe." I point to the ninth floor in buildings five and six. "We'll have to jack in here."
 
@@ -215,7 +216,7 @@ I also propose using the water fountain and a kayak,
 
 "Yeah, I got that, now explain how."
 
-Niela, a master kayaker, would kayak out with two kayaks. Dressed in black and careening on her black kayak, I figure she can get to the fountain pretty easily and dump five gallons of dish soap into the spurt. The second kayak, a bright red one, she'd push towards the filtration system. West of the small lake, a large underground pump pulled water into it and runs it through filters to make sure the lake never grows actual plant life. The current caused on top of the water, should be enough that if she pushed the kayak towards it, the kayak would stay in the current and drift from East to West in the dark. She'd be visible in the dim light at the middle of the fountain for a moment, but hopefully the oddity of the red kayak should take the attention away from her so that she can slip back into the shadows. Once there, she'd stay out of the campus near the exit point and wait for us.
+Niela, a master kayaker, would kayak out with two kayaks. Dressed in black and careening on her black kayak, I figure she can get to the fountain pretty easily and dump five gallons of dish soap into the spurt. The second kayak, a bright red one, she'd push towards the filtration system. East of the small lake, a large underground pump pulled water into it and runs it through filters to make sure the lake never grows actual plant life. The current caused on top of the water, should be enough that if she pushed the kayak towards it, the kayak would stay in the current and drift from East to West in the dark. She'd be visible in the dim light at the middle of the fountain for a moment, but hopefully the oddity of the red kayak should take the attention away from her so that she can slip back into the shadows. Once there, she'd stay out of the campus near the exit point and wait for us.
 
 "But I want to run around inside!" Niela complains.
 
@@ -263,7 +264,7 @@ Dan and I will use night vision binoculars to follow Niela's progress.
 
 She's got a point there. But we also need to know if the fluid leaks out when we launch the Molotovs. We'll also need to test how many morning stars it takes to shatter a bullet proof glass pane and how close we need to be. I start to wonder if this plan isn't becoming a bit too complicated. 	
 
-"Are we over doing it?"
+"Are we overdoing it?"
 
 "I don't think so, I mean, there's only two and a half of us, we've got to be creative."
 
@@ -297,11 +298,11 @@ She's got a point there. But we also need to know if the fluid leaks out when we
 
 "A kit?" Niela is the type of person who needs to understand all the ins and outs.
 
-"A kit," Dan explains, "is some electronic bits and bobs to get us into that room and get the computers on Oscars screens. So he's going to send us some gel fingerprints or an exploding stopwatch or whatever we need."
+"A kit," Dan explains, "is some electronic bits and bobs to get us into that room and get the computers on Oscar's screens. So he's going to send us some gel fingerprints or an exploding stopwatch or whatever we need."
 
 "This sounds like Mission Impossible again."
 
-"Yeah, that's why you only get to drive the kayak. Maggie and I know a little too much about being sneaky and wiring and stuff like that."
+"Yeah, that's why you only get to drive the kayak. Maggie and I know a little too much about being sneaky and wiring and guns and stuff like that."
 
 "Second priorities if we are stealthy enough are destruction and diversion," I say. "You can probably help there, Niela."
 
@@ -327,12 +328,12 @@ VecoTerrain is an ecoterrorist group Onyx blames things on from time to time. Th
 
 "Only the ones who try to make me feel guilty about eating a piece of cheese."
 
-The rest of the evening we look at blueprints and study where cameras are and the movement of the security personnel. We decide that we'll go in early Saturday morning, around 1am. It gives us all of Friday to gather our supplies, test our Stormshooter, and otherwise finish preparations. 
+The rest of the evening we look at blueprints and study where cameras are and the movement of the security personnel. We decide that we'll go in early Saturday morning, around 4am. It gives us all of Friday to gather our supplies, test our Stormshooter, and otherwise finish preparations. We'll also be able to get a few hours of sleep.
 
-We stop chatting about the mission around 10pm and thank Oscar for staying up with us. He put together his kit as we were planning and contacted a cargo flight crew member to arrange a drop off. Before he can sleep, Oscar needs to deliver his kit to the airfield. Luckily, it's only a fifteen minute drive, so he'll be home and in bed before two am. The flight will arrive at the Oakland airport at 9:55am, and from there an intern from Niela's company will pick it up and deliver it to the Hollow. Niela has arranged that as well.
+We stop chatting about the mission around 10 p.m. and thank Oscar for staying up with us. He put together his kit as we were planning and contacted a cargo flight crew member to arrange a drop off. Before he can sleep, Oscar needs to deliver his kit to the airfield. Luckily, it's only a fifteen minute drive, so he'll be home and in bed before two am. The flight will arrive at the Oakland airport at 9:55 a.m., and from there an intern from Niela's company will pick it up and deliver it to the Hollow. Niela has arranged that as well.
 
-The post will deliver the Stormshooter and  morning stars around 11am. The intern will arrive with the kit around 12:15pm. Niela will wait for those packages while Dan and I head to the hardware store for reinforced glass and gasoline. Then we'll hit the clothing supply store for appropriate raid clothing – black cargo pants and fitted, plain black tops.  Bolt cutters and the supplies we need to build our test box are in Niela's shed. We will each carry a 9mm with a silencer. There are five versions of this weapon in Nathan's gun safe, to which Niela knows the combination. When Dan questions why Nathan has not only five handguns but also five silencers, Niela shrugs.
+The post will deliver the Stormshooter and morning stars around 11am. The intern will arrive with the kit around 12:15 p.m. Niela will wait for those packages while Dan and I head to the hardware store for reinforced glass and gasoline. Then we'll hit the clothing supply store for appropriate raid clothing – black cargo pants and fitted, plain black tops.  Bolt cutters and the supplies we need to build our test box are in Niela's shed. We will each carry a 9mm with a silencer. There are five versions of this weapon in Nathan's gun safe, to which Niela knows the combination. When Dan questions why Nathan has not only five handguns but also five silencers, Niela shrugs.
 
-"Haven't you ever been to a gun sale? Buy four get one free, who can resist?"
+"Haven't you ever been to a gun convention? Buy four get one free, who can resist?"
 
 After we've packed up the LASSO papers and packaged them for burning, we pour three double shots of whisky. We drink them slowly and quietly, then we say our goodnights and go to our respective beds.

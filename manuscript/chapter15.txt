@@ -1,9 +1,10 @@
+
 #Chapter 15
 
 
 "Ok," Dan says as he gingerly places a bottle filled with gasoline and a marble sized morning star with diamond dust on the spikes into the t-shirt cannon. "Want to make some bets about whether or not this thing ends up inside the box?"
 
-Niela, Dan and I are standing in a clearing up the mountain from Niela's house. We'd taken the four-wheelers with Niela as a guide and set out with our test supplies immediately after the intern arrived with Oscar's kit. The kid must have been driving like a bat out of hell – he'd arrived at 11:30am, a good forty-five minutes earlier than we'd expected. 
+Niela, Dan and I are standing in a clearing up the mountain from Niela's house. We'd taken the four-wheelers with Niela as a guide and set out with our test supplies immediately after the intern arrived with Oscar's kit. The kid must have been driving like a bat out of hell - he'd arrived at 11:30am, a good forty-five minutes earlier than we'd expected. 
 
 Dan and I had decided to buy two wooden boxes, fully constructed, at the hardware store. They were about a yard long on each side. Or better said, a meter, since Dan and I had gotten into a discussion about metric versus imperial units on the way to the store and decided that we weren't going to use "yards" anymore unless we were talking about "yard sales" or barbecues. 
 
@@ -17,7 +18,7 @@ The Stormshooter came with a stand and the cannon is pointing at the sky. The wh
 
 We'd needed to buy wide mouthed bottles because the morning stars wouldn't fit through the neck of the wine bottles we had lying around at the Hollow. There'd been a bit of a panic when we realized this because none of us knew where to buy bottles with a wider neck. In the end, we'd headed back to the hardware store and looked in the gardening section. Sure enough, there were a variety of old fashioned, but newly manufactured, milk bottles and jars in a section for homemade marmalades and wine. We bought ten milk bottles and tried to convince the clerk that fifty dollars was a ridiculous price for useless glass. We'd asked for a discount because we were buying ten. The clerk had just shrugged and waited without saying anything. 
 
-"Are you ready?" Dan asks Niela through the walkie talkie. Niela is in sprinting position a more than halfway between us and the wooden box. The box is about two football fields away with a fire extinguisher nearby. This morning, we'd decided against filling the Molotovs with laundry detergent and instead opted for a real world test. We're hopeful that we don't start a forest fire. The spot Niela brought us to was relatively shady, so the grass isn't so dry, but it's still kind of dangerous what we're doing here.
+"Are you ready?" Dan asks Niela through the walkie talkie. Niela is in sprinting position more than halfway between us and the wooden box. The box is about two football fields away with a fire extinguisher nearby. This morning, we'd decided against filling the Molotovs with laundry detergent and instead opted for a real world test. We're hopeful that we don't start a forest fire. The spot Niela brought us to was relatively shady, so the grass isn't so dry, but it's still kind of dangerous what we're doing here.
 
 "Yes!" She answers. 
 
@@ -81,9 +82,9 @@ The "kit" is a cheap pleather briefcase with a combination lock on the front. Th
 
 *Information Recon Access Kit*
 
-* The targets for objective one, priority one are in a basement level under the parking garage behind building 5/6. Following the ordered execution plan will ensure remote control over security mechanisms in the basement level.*
+*The targets for objective one, priority one are in a basement level under the parking garage behind building 5/6. Following the ordered execution plan will ensure remote control over security mechanisms in the basement level.*
 
-*Although this is the primary objective, extraction and recovery should be paired with escape. See map 1. *
+*Although this is the primary objective, extraction and recovery should be paired with escape. See map 1.*
 
 I flip to the appendix for the map. The detail of the parking structure shows a basement floor containing rooms along the parameter. To the north is an access door that connects to an underground access road. 
 
@@ -97,15 +98,15 @@ I flip to the appendix for the map. The detail of the parking structure shows a 
 
 Dan laughs. "Yeah, Freaky Mike Franzel and his little Humanoid, Mage, have definitely inspired a bad movie or two."
 
-* Upon inspection of the LASSO, it has been determined that the target for objective two, priority one is located on the ninth floor of buildings 5/6 inside a core room in the expansion bridge. Said target is protected by limited entry pathways and laser activated alarms. Security personell patrol the floor three times more than other floors, they lap in clockwise directions and do not enter either the outer or inner core. Laser patterns cover the floor in the outer core, and the inner core is protected by retina scanner and voice activation lock. *
+*Upon inspection of the LASSO, it has been determined that the target for objective two, priority one is located on the ninth floor of buildings 5/6 inside a core room in the expansion bridge. Said target is protected by limited entry pathways and laser activated alarms. Security personell patrol the floor three times more than other floors, they lap in clockwise directions and do not enter either the outer or inner core. Laser patterns cover the floor in the outer core, and the inner core is protected by retina scanner and voice activation lock.*
 
-* Contained in this kit you will find: *
+*Contained in this kit you will find:*
 
-* 0. Gloves. All components have been sterilized and anonymized. Do not remove kit components from the baggies without gloves because that would be silly and unprofessional.*
+*0. Gloves. All components have been sterilized and anonymized. Do not remove kit components from the baggies without gloves because that would be silly and unprofessional.*
 
 Dan smiles at me, "I think I'm starting to like Oscar." 
 
-* 1. Circuit Disruption Widget for the electrical box located in the utility closet Building four, floor 3. Please see provided map 2. *
+*1. Circuit Disruption Widget for the electrical box located in the utility closet Building four, floor 3. Please see provided map 2.*
 
 "Shit," I say, "we have to get into building four..."
 
@@ -119,9 +120,9 @@ The map shows an electrical box on the north wall of floor three in building fou
 
 I return to reading the kit instructions. 
 
-* 2. Splitter extension and 6 clips*
+*2. Splitter extension and 6 clips*
 
-* PLACEMENT: The disruption widget needs to be placed on the 34g and 37a wires (see circuit blueprint). Slice wire casings without cutting the wires and peel the wire casing back. Attach splitter extension to both wires. Extra clips are included in case the wires are too far apart to connect easily to the extension. Attach everything to the circuit disruption widget (see drawing A-1).*
+*PLACEMENT: The disruption widget needs to be placed on the 34g and 37a wires (see circuit blueprint). Slice wire casings without cutting the wires and peel the wire casing back. Attach splitter extension to both wires. Extra clips are included in case the wires are too far apart to connect easily to the extension. Attach everything to the circuit disruption widget (see drawing A-1).*
 
 The drawing is in the appendix, after the map. 
 
@@ -137,25 +138,25 @@ The drawing is in the appendix, after the map.
 
 "I'll text him." Dan pulls out his phone, and I continue reading aloud.
 
-* 3. Mini welder. Loaded.*
+*3. Mini welder. Loaded.*
 
 The package labeled "3" contains a small welding machine that looks like a caulk gun. Next to it there are two hairspray sized cylinders, one labeled Oxygen and the other Acetylene. The gun has a small metal rod threaded towards the gun's cutting torch, positioned next to the nozzle. I show Dan and then close the package again. It'll be easier to carry packaged as it is, and we don't need to be leaving finger prints anyway. 
 
-* I've included both a steel rod and an aluminum rod. Normally electrical boxes are made out of aluminum, but I have the feeling this one is out of steel. Call it an instinct. The steel rod is loaded. Weld the door to the electrical box shut once disruption widget is properly placed. This will ensure that you have time to get past the laser grid.*
+*I've included both a steel rod and an aluminum rod. Normally electrical boxes are made out of aluminum, but I have the feeling this one is out of steel. Call it an instinct. The steel rod is loaded. Weld the door to the electrical box shut once disruption widget is properly placed. This will ensure that you have time to get past the laser grid.*
 
-* 4. Circuit Redirection Card for the same electrical box.*
+*4. Circuit Redirection Card for the same electrical box.*
 
-* PLACEMENT: Use duct tape to attach the circuit redirection card to the outside back of the electrical box. Redirection card should be placed invisibly to avoid removal.*
+*PLACEMENT: Use duct tape to attach the circuit redirection card to the outside back of the electrical box. Redirection card should be placed invisibly to avoid removal.*
 
 I pull out the Circuit Redirection Card. It's the size of a credit card and nearly as flat too. It's green with slivers of silver circuits running though it. It looks incredibly high tech.
 
-*RESULT: Proper placement of this device will give us remote access to the entire campus closed circuit camera installation. *
+*RESULT: Proper placement of this device will give us remote access to the entire campus closed circuit camera installation.*
 
-* 5. Hammer, plastic explosives, industrial magnets. *
+*5. Hammer, plastic explosives, industrial magnets.*
 
 "A hammer?" asks Dan, "Keep reading."
 
-* Upon close inspection of the voice activation lock, a remote hack looks unlikely. Use force. Smash the casing with the hammer, place plastic explosives on the locking mechanisms, take a step back and detonate. Use the magnets to remove shards. I'm pretty sure this is going to work. *
+*Upon close inspection of the voice activation lock, a remote hack looks unlikely. Use force. Smash the casing with the hammer, place plastic explosives on the locking mechanisms, take a step back and detonate. Use the magnets to remove shards. I'm pretty sure this is going to work.*
 
 "Jesus Christ. I'm calling him."
 
@@ -171,7 +172,7 @@ The phone starts ringing and Oscar picks up, laughing.
 
 "I know, I know," says Oscar. "The retinal scanner will be deactivated with the circuit disruptor, but the voice activation lock is controlled via a remote power source. I think it's an external company's software."
 
-"Ok, but we won't know that the circuit disruptor worked properly in the first place, and now you've got a planting explosives," Dan whines. "And you're 'pretty sure this is going to work'?
+"Ok, but we won't know that the circuit disruptor worked properly in the first place, and now you've got us planting explosives," Dan whines. "And you're 'pretty sure this is going to work'?
 
 "The circuit redirection card is going to show ME if the lasers are deactivated," Oscar explains. "Do you trust me?"
 
@@ -194,7 +195,7 @@ The phone starts ringing and Oscar picks up, laughing.
 ---
 I type up a truncated and incomplete overview of the plan and send it to Jacob. I promised him I would keep him posted, but I figure if he wants a more complete plan all he has to do is ask Oscar for it. I include this directive to him and sign the daily report "Disease". An hour later, a message comes in on the encrypted IRC.
 
-*Quick question – did you all test these strategies? The t-shirt cannon in particular seems pretty out there.*
+*Quick question - did you all test these strategies? The t-shirt cannon in particular seems pretty out there.*
 
 *I thought you liked schemy schemes.* I respond immediately. Who knows how long I'll have Jacob in a synchronous chat.
 
